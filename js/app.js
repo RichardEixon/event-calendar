@@ -12,8 +12,7 @@ const DATA_URL = (() => {
   if (location.hostname === 'localhost' || location.protocol === 'file:') {
     return './data/events.json';
   }
-  // TODO: Replace with your GitHub raw URL after setup
-  return './data/events.json';
+  return 'https://raw.githubusercontent.com/RichardEixon/event-calendar/main/data/events.json';
 })();
 
 const VENUE_COLORS = {
