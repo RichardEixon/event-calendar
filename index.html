@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="SSH Events" />
+  <title>SSH Event Calendar</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- FullCalendar CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
+
+  <style>
+    /* Venue color chips */
+    .venue-Arena  { background: #3B82F6; }
+    .venue-KTH    { background: #10B981; }
+    .venue-NSD    { background: #EF4444; }
+    .venue-SIS    { background: #8B5CF6; }
+    .venue-WSC    { background: #06B6D4; }
+    .venue-AQC    { background: #F59E0B; }
+    .venue-Other  { background: #9CA3AF; }
+
+    /* FullCalendar overrides */
+    .fc-event { cursor: pointer; font-size: 0.72rem; border-radius: 3px; padding: 1px 3px; }
+    .fc-daygrid-event-dot { display: none; }
+    .fc-toolbar-title { font-size: 1.1rem !important; font-weight: 700 !important; }
+
+    /* Modal */
+    #modal-backdrop {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 100;
+      overflow-y: auto;
+    }
+    #modal-backdrop.open { display: flex; align-items: flex-start; justify-content: center; padding: 1rem; }
+
+    /* WhatsApp text box */
+    #wa-text {
+      white-space: pre-wrap;
+      font-family: monospace;
+      font-size: 0.8rem;
+      line-height: 1.4;
+    }
+
+    /* iOS PWA safe area */
+    body { padding-bottom: env(safe-area-inset-bottom); }
+  </style>
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: { 50: '#eff6ff', 600: '#2563eb', 700: '#1d4ed8' }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-gray-50 text-gray-800 min-h-screen">
+
+  <!-- ─── Header ─── -->
+  <header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4 flex-wrap">
+      <div>
+        <h1 class="text-lg font-bold text-blue-700 leading-tight">Singapore Sports Hub</h1>
+        <p class="text-xs text-gray-500">Event Calendar</p>
+      </div>
+
+      <div class="flex items-center gap-3 flex-1 min-w-0 max-w-lg">
+        <!-- Search -->
+        <div class="relative flex-1">
+          <span class="absolute left-2.5 top-2 text-gray-400 text-sm">🔍</span>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search event or venue…"
+            class="w-full pl-8 pr-3 py-1.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+            oninput="onSearch(this.value)"
+          />
+        </div>
+
+        <!-- View toggle -->
+        <div class="flex border border-gray-300 rounded-lg overflow-hidden text-xs">
+          <button onclick="setView('dayGridMonth')" id="btn-month"
+            class="px-2.5 py-1.5 bg-blue-600 text-white font-medium">Month</button>
+          <button onclick="setView('listMonth')" id="btn-list"
+            class="px-2.5 py-1.5 text-gray-600 hover:bg-gray-100">List</button>
+        </div>
+      </div>
+
+      <!-- Sync status -->
+      <div id="sync-status" class="text-xs text-gray-500 whitespace-nowrap">
+        <span id="sync-dot">⏳</span> Loading…
+      </div>
+    </div>
+
+    <!-- Venue legend -->
+    <div class="max-w-6xl mx-auto px-4 pb-2 flex flex-wrap gap-2 text-xs">
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-Arena inline-block"></span>Arena</span>
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-KTH inline-block"></span>KTH</span>
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-NSD inline-block"></span>NSD</span>
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-SIS inline-block"></span>SIS</span>
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-WSC inline-block"></span>WSC</span>
+      <span class="flex items-center gap-1"><span class="w-3 h-3 rounded-sm venue-AQC inline-block"></span>AQC</span>
+    </div>
+  </header>
+
+  <!-- ─── Calendar ─── -->
+  <main class="max-w-6xl mx-auto px-4 py-4">
+    <div id="calendar"></div>
+  </main>
+
+  <!-- ─── Event Detail Modal ─── -->
+  <div id="modal-backdrop" onclick="closeModal(event)">
+    <div id="modal" class="bg-white rounded-xl shadow-2xl w-full max-w-lg my-4" onclick="event.stopPropagation()">
+
+      <!-- Modal Header -->
+      <div id="modal-venue-bar" class="h-2 rounded-t-xl"></div>
+      <div class="px-5 pt-4 pb-3 flex items-start justify-between gap-3">
+        <div>
+          <h2 id="modal-title" class="text-lg font-bold leading-tight"></h2>
+          <div class="flex flex-wrap gap-2 mt-1.5 text-sm text-gray-600">
+            <span id="modal-date" class="flex items-center gap-1">📅 <span></span></span>
+            <span id="modal-venue-text" class="flex items-center gap-1">📍 <span></span></span>
+          </div>
+          <div class="flex flex-wrap gap-2 mt-1 text-sm text-gray-600">
+            <span id="modal-em" class="flex items-center gap-1 hidden">👤 <span></span></span>
+            <span id="modal-aem" class="flex items-center gap-1 hidden">👤 <span></span></span>
+          </div>
+          <div id="modal-remark-wrap" class="hidden mt-1 text-xs text-gray-500">
+            📝 <span id="modal-remark"></span>
+          </div>
+        </div>
+        <button onclick="closeModalDirect()" class="text-gray-400 hover:text-gray-600 text-xl leading-none shrink-0">✕</button>
+      </div>
+
+      <!-- Tabs -->
+      <div class="px-5 border-b border-gray-100 flex gap-0">
+        <button onclick="switchTab('whatsapp')" id="tab-whatsapp"
+          class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-blue-600 text-blue-600">
+          WhatsApp
+        </button>
+        <button onclick="switchTab('pdfs')" id="tab-pdfs"
+          class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700">
+          PDFs
+        </button>
+      </div>
+
+      <!-- Tab: WhatsApp -->
+      <div id="tab-content-whatsapp" class="p-5">
+        <div class="bg-[#ECE5DD] rounded-lg p-3 mb-3 max-h-72 overflow-y-auto">
+          <pre id="wa-text" class="text-gray-800"></pre>
+        </div>
+        <button
+          onclick="copyWhatsApp()"
+          id="copy-btn"
+          class="w-full bg-green-600 hover:bg-green-700 text-white font-medium py-2.5 rounded-lg text-sm flex items-center justify-center gap-2 transition"
+        >
+          <span>📋</span> <span id="copy-btn-text">Copy to Clipboard</span>
+        </button>
+      </div>
+
+      <!-- Tab: PDFs -->
+      <div id="tab-content-pdfs" class="p-5 hidden">
+        <div id="pdf-list" class="space-y-2"></div>
+        <p id="no-pdf-msg" class="text-gray-400 text-sm text-center py-4 hidden">No PDFs available</p>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ─── Scripts ─── -->
+  <script src="js/app.js"></script>
+</body>
+</html>
