@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-29T03:02:05.299526+00:00",
+  "lastUpdated": "2026-03-29T03:07:07.270097+00:00",
   "lastSyncStatus": "success",
   "totalEvents": 62,
   "events": [
     {
-      "id": "evt-b45de447",
+      "id": "evt-d3523f15",
       "eventName": "77th National Schools Individual",
       "dateStart": "",
       "dateEnd": "",
@@ -14,12 +14,12 @@
       "remark": "",
       "whatsappContent": "*77th National Schools Individual*\nVenue: Arena",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:21.513542",
+      "lastUpdated": "2026-03-29T03:04:50.813192",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00004E0863C20000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-469ea599",
+          "id": "pdf-047668bc",
           "fileName": "2026 NSI Chess Championship - Briefing Slides 15032026.pdf",
           "fileSize": 2193960,
           "localPath": "C:\\EventCalendar\\pdfs\\77th National Schools Individual_2026_NSI_Chess_Championship_-_Briefing_Slides_15032026.pdf"
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": "evt-80a53f14",
+      "id": "evt-56a5e76d",
       "eventName": "JSA Selection Trials 2026",
       "dateStart": "",
       "dateEnd": "",
@@ -37,12 +37,12 @@
       "remark": "",
       "whatsappContent": "*JSA Selection Trials 2026*\nVenue: Arena\n\n*Event Info*\n0700hrs: Aircon full blast from 0600hrs / Unlock 3x e-doors before doors / open / FLOORPLAN",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:23.905958",
+      "lastUpdated": "2026-03-29T03:04:52.669638",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00004F4CF8E70000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-30d75368",
+          "id": "pdf-b979064d",
           "fileName": "JSA 2026 Briefing Deck.pdf",
           "fileSize": 2835456,
           "localPath": "C:\\EventCalendar\\pdfs\\JSA Selection Trials 2026_JSA_2026_Briefing_Deck.pdf"
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "id": "evt-e0c52f81",
+      "id": "evt-6ac51239",
       "eventName": "Silence Wang “Rise Of Romance” World Tour - Singapore",
       "dateStart": "",
       "dateEnd": "",
@@ -60,18 +60,18 @@
       "remark": "",
       "whatsappContent": "*Silence Wang “Rise Of Romance” World Tour - Singapore*\nVenue: Arena",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T02:59:35.828549",
+      "lastUpdated": "2026-03-29T03:05:04.612704",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F80000A4F56E422208C1468AF7D05A97B0783C00004F4D42A00000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-b5d5f706",
+          "id": "pdf-d2500496",
           "fileName": "20260309_Production Meeting Minutes _Silence Wang - Minutes.pdf",
           "fileSize": 4114273,
           "localPath": "C:\\EventCalendar\\pdfs\\Silence Wang _Rise Of Romance_ World Tou_20260309_Production_Meeting_Minutes__Silence_Wang_-_Minutes.pdf"
         },
         {
-          "id": "pdf-f8ed70d8",
+          "id": "pdf-9f519b36",
           "fileName": "20260309_Production Meeting Minutes_Silence Wang - Minutes.pdf",
           "fileSize": 1055228,
           "localPath": "C:\\EventCalendar\\pdfs\\Silence Wang _Rise Of Romance_ World Tou_20260309_Production_Meeting_Minutes_Silence_Wang_-_Minutes.pdf"
@@ -79,117 +79,7 @@
       ]
     },
     {
-      "id": "evt-357246ee",
-      "eventName": "February Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "AQC",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC",
-      "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:08.034240",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B92F0000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-e1bb36d8",
-          "fileName": "[8 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
-          "fileSize": 134558,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__8_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-26c56f83",
-      "eventName": "February Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "AQC",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC",
-      "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:09.813538",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9300000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-bc94fd63",
-          "fileName": "[7 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
-          "fileSize": 139776,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__7_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-62ee1519",
-      "eventName": "February Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "KTH",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*February Swim Series 2026*\nVenue: KTH",
-      "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:11.824802",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9310000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-ab1a563f",
-          "fileName": "[6 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
-          "fileSize": 123035,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__6_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
-        },
-        {
-          "id": "pdf-0fd3b9b1",
-          "fileName": "Manpower Briefing Notes_Feb Swim Series 2026_V1.0.pdf",
-          "fileSize": 3872477,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Manpower_Briefing_Notes_Feb_Swim_Series_2026_V1.0.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-16d6911b",
-      "eventName": "February Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "AQC",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC",
-      "pdfCount": 3,
-      "lastUpdated": "2026-03-29T03:00:20.065586",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9320000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-2f892a68",
-          "fileName": "[5 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
-          "fileSize": 93849,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__5_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
-        },
-        {
-          "id": "pdf-ac53f84d",
-          "fileName": "Manpower Briefing Notes_Feb Swim Series 2026_(5 Feb).pdf",
-          "fileSize": 496152,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Manpower_Briefing_Notes_Feb_Swim_Series_2026__5_Feb_.pdf"
-        },
-        {
-          "id": "pdf-901c7721",
-          "fileName": "Feb Swim Series 2026_Info Deck v1.1.pdf",
-          "fileSize": 8390543,
-          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Feb_Swim_Series_2026_Info_Deck_v1.1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-37578645",
+      "id": "evt-4cfbcdf9",
       "eventName": "OCBC Aquatic Centre Contact List",
       "dateStart": "",
       "dateEnd": "",
@@ -199,12 +89,12 @@
       "remark": "",
       "whatsappContent": "*OCBC Aquatic Centre Contact List*\nVenue: AQC",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:24.792153",
+      "lastUpdated": "2026-03-29T03:05:52.487526",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004E0867B10000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-1aac2ce1",
+          "id": "pdf-6f57b071",
           "fileName": "AQC Contact List.pdf",
           "fileSize": 111074,
           "localPath": "C:\\EventCalendar\\pdfs\\OCBC Aquatic Centre Contact List_AQC_Contact_List.pdf"
@@ -212,82 +102,7 @@
       ]
     },
     {
-      "id": "evt-db12b298",
-      "eventName": "January Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "KTH",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*January Swim Series 2026*\nVenue: KTH",
-      "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:26.272579",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C000028A196560000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-baf1ec5e",
-          "fileName": "18 Jan - January Swim Series 2026_Internal Runsheet.pdf",
-          "fileSize": 153561,
-          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_18_Jan_-_January_Swim_Series_2026_Internal_Runsheet.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-0d2057bd",
-      "eventName": "January Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "KTH",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*January Swim Series 2026*\nVenue: KTH",
-      "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:27.939661",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C0000281868B70000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-34819ff2",
-          "fileName": "17 Jan - January Swim Series 2026_Internal Runsheet.pdf",
-          "fileSize": 145170,
-          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_17_Jan_-_January_Swim_Series_2026_Internal_Runsheet.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-075219a6",
-      "eventName": "January Swim Series 2026",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "AQC",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*January Swim Series 2026*\nVenue: AQC",
-      "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:32.046379",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C000025EFD0370000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-a84c8317",
-          "fileName": "15 Jan - January Swim Series 2026_Internal Runsheet_v1.1.pdf",
-          "fileSize": 86518,
-          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_15_Jan_-_January_Swim_Series_2026_Internal_Runsheet_v1.1.pdf"
-        },
-        {
-          "id": "pdf-a5640837",
-          "fileName": "Manpower Briefing Notes_Jan Swim Series 2026_(15 Jan) (1).pdf",
-          "fileSize": 384600,
-          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_Manpower_Briefing_Notes_Jan_Swim_Series_2026__15_Jan___1_.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-aea762e8",
+      "id": "evt-f7940f63",
       "eventName": "HIHS Road Run 2026",
       "dateStart": "",
       "dateEnd": "",
@@ -297,24 +112,24 @@
       "remark": "",
       "whatsappContent": "*HIHS Road Run 2026*\nVenue: Other\n\n*Event Info*\n12:00 pm: Time : 7:00am to\n1400hrs: Site Takeover 0700hrs: Registration\n1430hrs: Setup 0745hrs: Warm-up\n1730hrs: End\n11:00am: Date & Timing: 14 Mar 2026 7:00am -",
       "pdfCount": 3,
-      "lastUpdated": "2026-03-29T03:00:39.202757",
+      "lastUpdated": "2026-03-29T03:06:01.486036",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004F4CE8E80000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-80a0174a",
+          "id": "pdf-77a867c3",
           "fileName": "Holy Innocent High School Road Run 2026_Prog_layout_route.pdf",
           "fileSize": 352182,
           "localPath": "C:\\EventCalendar\\pdfs\\HIHS Road Run 2026_Holy_Innocent_High_School_Road_Run_2026_Prog_layout_route.pdf"
         },
         {
-          "id": "pdf-9744ffdc",
+          "id": "pdf-895978b5",
           "fileName": "CCHMS Cross Country 2026 Slides.pdf",
           "fileSize": 3313105,
           "localPath": "C:\\EventCalendar\\pdfs\\HIHS Road Run 2026_CCHMS_Cross_Country_2026_Slides.pdf"
         },
         {
-          "id": "pdf-bd3a3c04",
+          "id": "pdf-8c830727",
           "fileName": "2026.03.14_ Just Jalan (PBSG) - Docs v.3.pdf",
           "fileSize": 4387544,
           "localPath": "C:\\EventCalendar\\pdfs\\HIHS Road Run 2026_2026.03.14__Just_Jalan__PBSG__-_Docs_v.3.pdf"
@@ -322,36 +137,7 @@
       ]
     },
     {
-      "id": "evt-26c2b267",
-      "eventName": "ACS 140th Founder Day",
-      "dateStart": "",
-      "dateEnd": "",
-      "venue": "Other",
-      "em": "",
-      "aem": "",
-      "remark": "",
-      "whatsappContent": "*ACS 140th Founder Day*\nVenue: Other",
-      "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:49.365534",
-      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004F4CE8E20000",
-      "archived": 0,
-      "pdfs": [
-        {
-          "id": "pdf-58f1505f",
-          "fileName": "2026FEB26_ACS 140th Founder Day_Event Runsheet_V1.pdf",
-          "fileSize": 2837551,
-          "localPath": "C:\\EventCalendar\\pdfs\\ACS 140th Founder Day_2026FEB26_ACS_140th_Founder_Day_Event_Runsheet_V1.pdf"
-        },
-        {
-          "id": "pdf-756fcd29",
-          "fileName": "2026FEB26_ACS 140th Founder Day_Event Contact List_V1.pdf",
-          "fileSize": 310946,
-          "localPath": "C:\\EventCalendar\\pdfs\\ACS 140th Founder Day_2026FEB26_ACS_140th_Founder_Day_Event_Contact_List_V1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "evt-eb7418e1",
+      "id": "evt-ca109981",
       "eventName": "Programme Schedule",
       "dateStart": "",
       "dateEnd": "",
@@ -361,24 +147,24 @@
       "remark": "",
       "whatsappContent": "*Programme Schedule*\nVenue: Other\n\n*Event Info*\n7:15pm: Dinner Commences\n10:00pm: Event End",
       "pdfCount": 3,
-      "lastUpdated": "2026-03-29T03:01:16.939998",
+      "lastUpdated": "2026-03-29T03:06:38.247163",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C0000272B3E170000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-3d3f7e1a",
+          "id": "pdf-d74b9436",
           "fileName": "SNOC MAP Awards Presentation & Appreciation Dinner for SEA Games 2025 - Programme .pdf",
           "fileSize": 47464,
           "localPath": "C:\\EventCalendar\\pdfs\\Programme Schedule_SNOC_MAP_Awards_Presentation___Appreciation_Dinner_for_SEA_Games_2025_-_Programme_.pdf"
         },
         {
-          "id": "pdf-938e520f",
+          "id": "pdf-3524d023",
           "fileName": "V03_MAP AWARDS_OCBC SQUARE LAYOUT_090126.pdf",
           "fileSize": 1102535,
           "localPath": "C:\\EventCalendar\\pdfs\\Programme Schedule_V03_MAP_AWARDS_OCBC_SQUARE_LAYOUT_090126.pdf"
         },
         {
-          "id": "pdf-14edadec",
+          "id": "pdf-3fcb6456",
           "fileName": "RIDERS.Guide.GenZ.1_V2_151225 (1).pdf",
           "fileSize": 1079336,
           "localPath": "C:\\EventCalendar\\pdfs\\Programme Schedule_RIDERS.Guide.GenZ.1_V2_151225__1_.pdf"
@@ -386,7 +172,7 @@
       ]
     },
     {
-      "id": "evt-ab80fa01",
+      "id": "evt-381ff3ac",
       "eventName": "HSBC SVNS SINGAPORE 2026",
       "dateStart": "2026-01-13",
       "dateEnd": "2026-02-04",
@@ -396,12 +182,12 @@
       "remark": "",
       "whatsappContent": "*HSBC SVNS SINGAPORE 2026*\nVenue: NSD\nDate: 13 Jan 2026 - 4 Feb 2026\n\n*Event Info*\n8.00 AM: ECR OPEN 7.00 AM\n8.30 AM: PROMENADE LOCKDOWN 7.30 AM\n9.30 AM: 8.30 AM\n9.30 AM: CUSTOMER CARE COUNTER @ GATE 6 OPEN 8.30 AM\n10.00 AM: [RUCK N RUMBLE] MATCH KICK OFF 9.00 AM\n10.30 AM: TICKET BOX OFFICE @ KALLANG WAVE MALL OPEN 9.00 AM\n10.30 AM: [RUCK N RUMBLE] MATCH END 9.30 AM\n10.30 AM: 9.30 AM\n10.45 AM: [RUCK N RUMBLE] GATE 9 CLOSE N.A\n11.00 AM: TICKET RESOLUTION @ GATE 6 & 18 OPEN 9.30 AM\n11.00 AM: ALL PCS & GATES OPEN 9.30 AM\n11.00 AM: CUSTOMER CARE COUNTER @ GATE 18 OPEN 9.30 AM\n12.00 PM: MATCH STARTS 10.20 AM\n7.00 PM: TICKET BOX OFFICE @ KALLANG WAVE MALL CLOSE 7.00 PM\n7.30 PM: TICKET RESOLUTION @ GATE 6 & 18 CLOSE 7.30 PM\n8.11 PM: MATCH ENDS 8.08 PM\n8.30 PM: FAN VILLAGE @ PROMENADE CLOSE 8.30 PM\n8.45 PM: 8.45 PM\n8.45 PM: CUSTOMER CARE COUNTER @ GATE 6 & 18 CLOSE 8.45 PM\n9.15 PM: MERCHANDISE BOOTH CLOSE 9.00 PM",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:01:25.832952",
+      "lastUpdated": "2026-03-29T03:06:47.055335",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C0000272B3E0B0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-5cfba0da",
+          "id": "pdf-2db380fc",
           "fileName": "2026JAN31&FEB1_Production Meeting_HSBC SVNS 2026_v1.pdf",
           "fileSize": 28521068,
           "localPath": "C:\\EventCalendar\\pdfs\\HSBC SVNS SINGAPORE 2026_2026JAN31_FEB1_Production_Meeting_HSBC_SVNS_2026_v1.pdf"
@@ -409,7 +195,7 @@
       ]
     },
     {
-      "id": "evt-c05bc5e9",
+      "id": "evt-689b076a",
       "eventName": "Production Meeting Minutes – MATT RIFE 2026",
       "dateStart": "2026-01-13",
       "dateEnd": "2026-01-13",
@@ -419,18 +205,18 @@
       "remark": "",
       "whatsappContent": "*Production Meeting Minutes – MATT RIFE 2026*\nVenue: Arena\nDate: 13 Jan 2026\n\n*Event Info*\n0900hrs: o For safety purposes, catwalk inspections / will be conducted after setup/before show / and after tear down concluded. All items / brought up to catwalk are required to be / declared. Fines will be imposed for any / items found unattended or left over on the / catwalk / Safety instruction form / oAppointment of Event Safety In-Charge / oMandatory Helmet Wearing during Event / Setup & Teardown / oEvent Professional Engineers (PE) physical / inspection of event setup and sign-off / oEndorsed safety acknowledgement form to / attach in eWA for rigging works / MATT RIFE 2026 / Production and setup / Safety related matters: / Fire safety / Fire extinguishers to be in place at FOH, / generators and distribution boards. Clear / emergency evacuation pathway of 1.8m to / be maintained. Safety walk will be / conducted prior to event day to rectify any / safety breaches / oSafety Walk Date and Time: 7 Feb (Sat),\n1000hrs: MATT RIFE 2026 / Production and setup / Power / Number of generators: NA / Use of in-house power: 3 Zones / Use of additional 300mps at Zone 3 / o Safety documents required, along with endorsed CoC, SLD / and presence of LEW when tapping on in-house power / o Plot Gen Set into the layout (Loading Bay) / Special effects / Pyrotechnics / Confetti / Haze machine / Flame / / Sparkular/Laser / Use of haze and pyrotechnic will require silencing of fire bell / and standby duty technician till completion of usage. Pyro test / date must be scheduled prior to show / Operation disruption timing: Include in production schedule / o No extension from timing provided, please cater / additional timing for dispersal of haze (Haze machine to / be switched off 30 mins before end time) / Sound considerations / Rehearsal after 10pm must ensure sound to be under 55dBA / Sound engineer to be engaged if rehearsal ends after 10pm / MATT RIFE 2026 / Additional 300 amp power / Zone 3 tunnel / MATT RIFE 2026 / Production and setup / FM related matters: LIST OF NON-INCINERABLE WASTE (Source: NEA) / Cleaning: The following types of waste are non-incinerable and shall NOT be brought into incineration / plants: / o Food Catering / 1. Big appliances such as washing machines, refrigerators and air-conditioning units. / When / 2. Big metal pieces such as large drums or containers, vehicular parts, metal chairs, wire / Where rope and spring mattress. / o Rehearsal 3. Bulky waste that consists of any of the following: / Confetti testing ? (a) a solid object exceeding 0.6 m in length or width or 0.1 m in thickness; / (b) a hollow object exceeding 0.6 m in length, width or height. / o Special Effects / 4. Carbon fibres. / Confetti / 5. Chlorinated herbicides, chlorinated insecticides and chlorinated fungicides. / light stick 6. Chemical waste with chemical content which is unsuitable for incineration. / clappers 7. Explosive or highly flammable waste such as ammunition, dry and wet carbide waste, / o External fireworks, self-igniting waste and excessive quantities of films. / 8. Fire retardants. / Que Location / 9. Human and animal waste, sludge from neutralisationpits, foul-smelling waste and large / Timing / whole animal carcasses. / Crowd Size 10. Insulation materials such as rock wool, asbestos, calcium silicate boards, ceramic fibres / o Special cleaning and big carpets. / Suite / Function rooms / etc 11. Large quantities of electrical parts and components such as printed circuit boards, / cables and electronic cards. / VIP / M&G / 12. Light materials such as sawdust, feathers, dust and powders. / Rehearsal / 13. Liquid and volatile waste, oil sludge and paints. / 14. Poisonous and radioactive waste. / Waste removal (OTC/Dumpster) 15. Polychlorinated compounds such as Polychlorinated Bi-phenyl (PCB). / o Bulky item 16. Polyvinyl Chloride (PVC) waste such as PVC pipes, plastic film, upholstery, containers / and packaging materials. / a solid object exceeding 0.6 m in length or width or 0.1 m in / 17. Smoulderingrefuse. / thickness; / 18. Toxic industrial waste specified in the Schedule to the Environmental Public Health / a hollow object exceeding 0.6 m in length, width or height. (Toxic Industrial Waste) Regulations (Rg11). / o Non incinerable wastes 19. Tyres. / NATIONAL ENVIRONMENTAL AGENCY GUIDELINES FOR DISPOSAL 20. Construction and renovation debris, earth, concrete, stone, sand, sludge, ash and slag. / 21. Waste from grease interceptors.\n7:30PM: • 6:30AM – 9:30AM, 5:30PM –",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:37.310671",
+      "lastUpdated": "2026-03-29T03:06:58.499805",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB160000A4F56E422208C1468AF7D05A97B0783C0000272B46310000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-1896f430",
+          "id": "pdf-7afab510",
           "fileName": "20260114_Production Meeting Agenda Minutes - Matt Rife 2026.pdf",
           "fileSize": 1093072,
           "localPath": "C:\\EventCalendar\\pdfs\\Production Meeting Minutes _ MATT RIFE 2_20260114_Production_Meeting_Agenda_Minutes_-_Matt_Rife_2026.pdf"
         },
         {
-          "id": "pdf-bd97f10d",
+          "id": "pdf-90c708d0",
           "fileName": "20260114_Production Meeting Slides Minutes - Matt Rife 2026.pdf",
           "fileSize": 3745584,
           "localPath": "C:\\EventCalendar\\pdfs\\Production Meeting Minutes _ MATT RIFE 2_20260114_Production_Meeting_Slides_Minutes_-_Matt_Rife_2026.pdf"
@@ -438,7 +224,36 @@
       ]
     },
     {
-      "id": "evt-e7dc7041",
+      "id": "evt-2f5029f9",
+      "eventName": "January Swim Series 2026",
+      "dateStart": "2026-01-15",
+      "dateEnd": "2026-01-15",
+      "venue": "AQC",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*January Swim Series 2026*\nVenue: AQC\nDate: 15 Jan 2026",
+      "pdfCount": 2,
+      "lastUpdated": "2026-03-29T03:05:57.178535",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C000025EFD0370000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-8cb4a984",
+          "fileName": "15 Jan - January Swim Series 2026_Internal Runsheet_v1.1.pdf",
+          "fileSize": 86518,
+          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_15_Jan_-_January_Swim_Series_2026_Internal_Runsheet_v1.1.pdf"
+        },
+        {
+          "id": "pdf-d46ed902",
+          "fileName": "Manpower Briefing Notes_Jan Swim Series 2026_(15 Jan) (1).pdf",
+          "fileSize": 384600,
+          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_Manpower_Briefing_Notes_Jan_Swim_Series_2026__15_Jan___1_.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-136755d7",
       "eventName": "National Open",
       "dateStart": "2026-01-16",
       "dateEnd": "2026-01-16",
@@ -448,12 +263,12 @@
       "remark": "",
       "whatsappContent": "*National Open*\nVenue: Arena\nDate: 16 Jan 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:26.189799",
+      "lastUpdated": "2026-03-29T03:04:54.967988",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C0000272B32250000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-f2757e6d",
+          "id": "pdf-2dd8a887",
           "fileName": "National Open Championship 2026_Briefing Slide V2.pdf",
           "fileSize": 1762691,
           "localPath": "C:\\EventCalendar\\pdfs\\National Open_National_Open_Championship_2026_Briefing_Slide_V2.pdf"
@@ -461,7 +276,30 @@
       ]
     },
     {
-      "id": "evt-af421365",
+      "id": "evt-bd2ff9d1",
+      "eventName": "January Swim Series 2026",
+      "dateStart": "2026-01-17",
+      "dateEnd": "2026-01-17",
+      "venue": "KTH",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*January Swim Series 2026*\nVenue: KTH\nDate: 17 Jan 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T03:05:54.308668",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C0000281868B70000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-45ed4e74",
+          "fileName": "17 Jan - January Swim Series 2026_Internal Runsheet.pdf",
+          "fileSize": 145170,
+          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_17_Jan_-_January_Swim_Series_2026_Internal_Runsheet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-654fe6fd",
       "eventName": "JANUARY NATIONAL STADIUM EXPERIENCE - CONTACT LIST",
       "dateStart": "2026-01-17",
       "dateEnd": "2026-01-17",
@@ -471,48 +309,48 @@
       "remark": "",
       "whatsappContent": "*JANUARY NATIONAL STADIUM EXPERIENCE - CONTACT LIST*\nVenue: NSD\nDate: 17 Jan 2026",
       "pdfCount": 4,
-      "lastUpdated": "2026-03-29T03:01:12.211066",
+      "lastUpdated": "2026-03-29T03:06:33.491233",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C000028186CA00000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-30492aac",
+          "id": "pdf-1d5156cc",
           "fileName": "2025Jan17_January Stadium Experience_Contact List_V1.pdf",
           "fileSize": 301624,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan17_January_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-91c6b6e3",
+          "id": "pdf-94f62bc2",
           "fileName": "2025Jan17_January Stadium Experience_Runsheet_V1.1.pdf",
           "fileSize": 121832,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan17_January_Stadium_Experience_Runsheet_V1.1.pdf"
         },
         {
-          "id": "pdf-e5d57cf5",
+          "id": "pdf-28a271dc",
           "fileName": "2025Jan18_January Stadium Experience_Contact List_V1.pdf",
           "fileSize": 302038,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan18_January_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-fdd3fade",
+          "id": "pdf-7e9adf2b",
           "fileName": "2025Jan18_January Stadium Experience_Runsheet_V1.1.pdf",
           "fileSize": 123182,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan18_January_Stadium_Experience_Runsheet_V1.1.pdf"
         },
         {
-          "id": "pdf-d30760f8",
+          "id": "pdf-ea1aa339",
           "fileName": "(Stadium Experience) West Shutter - Manpower Dot Plan & Flow Plan_V1,1.pdf",
           "fileSize": 749417,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO__Stadium_Experience__West_Shutter_-_Manpower_Dot_Plan___Flow_Plan_V1_1.pdf"
         },
         {
-          "id": "pdf-d39e810f",
+          "id": "pdf-4b2a7366",
           "fileName": "2025Jan17_January Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 118796,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan17_January_Stadium_Experience_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-aba86ac3",
+          "id": "pdf-19d18cf2",
           "fileName": "2025Jan18_January Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 120921,
           "localPath": "C:\\EventCalendar\\pdfs\\JANUARY NATIONAL STADIUM EXPERIENCE - CO_2025Jan18_January_Stadium_Experience_Runsheet_V1.pdf"
@@ -520,7 +358,30 @@
       ]
     },
     {
-      "id": "evt-fb4667fd",
+      "id": "evt-fccc1eab",
+      "eventName": "January Swim Series 2026",
+      "dateStart": "2026-01-18",
+      "dateEnd": "2026-01-18",
+      "venue": "KTH",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*January Swim Series 2026*\nVenue: KTH\nDate: 18 Jan 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T03:05:53.477297",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C000028A196560000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-df618045",
+          "fileName": "18 Jan - January Swim Series 2026_Internal Runsheet.pdf",
+          "fileSize": 153561,
+          "localPath": "C:\\EventCalendar\\pdfs\\January Swim Series 2026_18_Jan_-_January_Swim_Series_2026_Internal_Runsheet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-43f0b42d",
       "eventName": "Manpower Briefing Notes",
       "dateStart": "2026-01-18",
       "dateEnd": "2026-01-18",
@@ -530,18 +391,18 @@
       "remark": "",
       "whatsappContent": "*Manpower Briefing Notes*\nVenue: AQC\nDate: 18 Jan 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:30.730082",
+      "lastUpdated": "2026-03-29T03:05:56.499305",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C0000272B00E10000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-02986322",
+          "id": "pdf-8b01079e",
           "fileName": "Manpower Briefing Notes_Jan Swim Series 2026_V1.1 (16 Jan).pdf",
           "fileSize": 3841103,
           "localPath": "C:\\EventCalendar\\pdfs\\Manpower Briefing Notes_Manpower_Briefing_Notes_Jan_Swim_Series_2026_V1.1__16_Jan_.pdf"
         },
         {
-          "id": "pdf-f92ed716",
+          "id": "pdf-88ea8e1c",
           "fileName": "16 Jan - January Swim Series 2026_Internal Runsheet.pdf",
           "fileSize": 119117,
           "localPath": "C:\\EventCalendar\\pdfs\\Manpower Briefing Notes_16_Jan_-_January_Swim_Series_2026_Internal_Runsheet.pdf"
@@ -549,7 +410,7 @@
       ]
     },
     {
-      "id": "evt-75bfe3b5",
+      "id": "evt-5c8f1725",
       "eventName": "Mediacorp Fit & Fun 2026 (18 January 2026)",
       "dateStart": "2026-01-18",
       "dateEnd": "2026-01-18",
@@ -559,18 +420,18 @@
       "remark": "",
       "whatsappContent": "*Mediacorp Fit & Fun 2026 (18 January 2026)*\nVenue: Other\nDate: 18 Jan 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:26.106991",
+      "lastUpdated": "2026-03-29T03:06:47.305912",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C0000272B3E050000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-f74a1f59",
+          "id": "pdf-84aac4f9",
           "fileName": "Mediacorp Fit & Fun 2026 - Promenade Layout.pdf",
           "fileSize": 262695,
           "localPath": "C:\\EventCalendar\\pdfs\\Mediacorp Fit _ Fun 2026 _18 January 202_Mediacorp_Fit___Fun_2026_-_Promenade_Layout.pdf"
         },
         {
-          "id": "pdf-d8769639",
+          "id": "pdf-fd42d712",
           "fileName": "Mediacorp Fit & Fun 2026 - Walking Route.pdf",
           "fileSize": 2525369,
           "localPath": "C:\\EventCalendar\\pdfs\\Mediacorp Fit _ Fun 2026 _18 January 202_Mediacorp_Fit___Fun_2026_-_Walking_Route.pdf"
@@ -578,7 +439,7 @@
       ]
     },
     {
-      "id": "evt-e9f7e0f8",
+      "id": "evt-4b26a4a1",
       "eventName": "ATEEZ WORLD TOUR [IN YOUR FANTASY] IN SINGAPORE",
       "dateStart": "2026-01-20",
       "dateEnd": "2026-01-20",
@@ -588,24 +449,24 @@
       "remark": "",
       "whatsappContent": "*ATEEZ WORLD TOUR [IN YOUR FANTASY] IN SINGAPORE*\nVenue: SIS\nDate: 20 Jan 2026\n\n*Event Info*\n7:30PM: • 6:30AM – 9:30AM, 5:30PM –\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Outside food and drinks\n- Standard venue conditions include\n- Weapons (e.g. Pocket knives, scissors, tools)\n- no outside food and drinks, no\n- Long sticks (Selfie stick, tripods/monopods, weapons, any long sticks (including\n- Empty personal water bottles\n- telephoto lens, gimbal)\n- (Glass bottles not allowed) gimbal), no action cameras\n- Re-entry\n- Children below 12 years old without 18 years old\n- Child policy: 3 years old and above\n- guardian\n- must purchase a ticket for\n- Photography, Videography, Live streaming\n- admission. No children below 3\n- ALL cameras\n- years old allowed into the Venue.\n- Laptop and Tablets (DSLR, Action camera, Film, Polaroid, Toy cameras)\n- (Kept and not be used in Venue)\n- Fan boards, LED boards, banners, posters, flags",
       "pdfCount": 3,
-      "lastUpdated": "2026-03-29T03:01:09.319325",
+      "lastUpdated": "2026-03-29T03:06:30.586662",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004E0871810000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-3d926380",
+          "id": "pdf-1bf1cf94",
           "fileName": "BCA Letter of Venue Acknowledgement (The Kallang) - Ateez Concert 2026.pdf",
           "fileSize": 148941,
           "localPath": "C:\\EventCalendar\\pdfs\\ATEEZ WORLD TOUR _IN YOUR FANTASY_ IN SI_BCA_Letter_of_Venue_Acknowledgement__The_Kallang__-_Ateez_Concert_2026.pdf"
         },
         {
-          "id": "pdf-e571638f",
+          "id": "pdf-27bebe8c",
           "fileName": "Production Meeting Minutes_ATEEZ 2026 22.01.26.pdf",
           "fileSize": 413794,
           "localPath": "C:\\EventCalendar\\pdfs\\ATEEZ WORLD TOUR _IN YOUR FANTASY_ IN SI_Production_Meeting_Minutes_ATEEZ_2026_22.01.26.pdf"
         },
         {
-          "id": "pdf-4a691333",
+          "id": "pdf-bbcead0e",
           "fileName": "Production Meeting Minutes _ATEEZ 22.01.26.pdf",
           "fileSize": 2791279,
           "localPath": "C:\\EventCalendar\\pdfs\\ATEEZ WORLD TOUR _IN YOUR FANTASY_ IN SI_Production_Meeting_Minutes__ATEEZ_22.01.26.pdf"
@@ -613,7 +474,7 @@
       ]
     },
     {
-      "id": "evt-baefb377",
+      "id": "evt-994bc987",
       "eventName": "JTC Sports Day",
       "dateStart": "2026-01-23",
       "dateEnd": "2026-01-23",
@@ -623,12 +484,12 @@
       "remark": "",
       "whatsappContent": "*JTC Sports Day*\nVenue: Arena\nDate: 23 Jan 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:25.961827",
+      "lastUpdated": "2026-03-29T03:04:54.761972",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C0000321014E10000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-6f99eb53",
+          "id": "pdf-d6b4ab78",
           "fileName": "JTC Active Day - Briefing slides.pdf",
           "fileSize": 1556640,
           "localPath": "C:\\EventCalendar\\pdfs\\JTC Sports Day_JTC_Active_Day_-_Briefing_slides.pdf"
@@ -636,7 +497,7 @@
       ]
     },
     {
-      "id": "evt-089733a9",
+      "id": "evt-bed70df9",
       "eventName": "MOE NSG Opening",
       "dateStart": "2026-01-26",
       "dateEnd": "2026-01-27",
@@ -646,12 +507,12 @@
       "remark": "",
       "whatsappContent": "*MOE NSG Opening*\nVenue: Arena\nDate: 26 Jan 2026 - 27 Jan 2026\n\n*Event Info*\n0800hrs: 0830 Reporting time for MOE staff / Rehearsals are / 0830-1030 1.Set up of venue, flags / closed doors. All / 2.Set up of labels on chairs of VIPs, carpark directional signs, parent/teacher (of OTs, / emcees, etc) sitting area, queue posts etc will be / 6.Set up of Hall 2 and 3 for Showcase, put up signages** to lead schools from Hall 1 to Hall 2, registered prior / Hall 1 to Hall 3. Print **fixtures for the 2 halls to be displayed on standees/door. / to entry and will / 0930-0945 1.Reporting of Student Oath Takers, Torch Bearers, Emcees / be accredited / 2.Briefing for students / 3.Ready for rehearsal, emcees in position - Parents / accompany kids / 0945-1030 Hall 1: / 1.Run through oath takers march in to take positions / will be / 3.AV to update slides based on actual students’ attendance / registered and / Respective ICs: / issued sticker / Brief manpower and NSGO staff of assigned duties. Provide any necessary handout and/or / walkthrough of relevant procedures. upon entry. / No need to clear / 1030-1200 1st Full Dress Rehearsal / accompanying / 1200-1250 Lunch / parents from / 1300-1400 Hall 1: / 2nd Full Dress Rehearsal / hall prior to / doors opening. / 1630-1730 Tear down of flags / All Entry via / Removal of signages from bus bay, outside Hall 1, lunch area, Hall 1 doors, etc / lobby entrance / Footer 3 / Hall 1 Event Schedule / Hall 1: / Student / entry via / Arena Park / entrance. / Public and / VIP entry via / Arena lobby / Doors Open:\n1415hrs: Doors close:\n1630hrs: Footer 4 / Cleaning Schedule for Minister Arrival (27 Jan) / 1100hrs: Minister holding room, VIP entrance to be cleaned / 1200hrs: Minister designated toilets: 1) in front of medical room / 2)handicap toilet beside male changing room at lobby, to be prepared and / cleaned. After cleaning, please close off lobby toilet access with queue / poles. / 1400hrs: to check and ensure both minister designated toilets are in good / condition and clean still. / Footer 5 / Hall 2 Setup & Event Runsheet / OCBC Hall Time of events Qns / Hall 2 schedule only for 27 Lights and aircon on : 0900 HOTO: 0930hrs / Jan / Doors open / Org Secy arrival : 0930 Doors open for participants and / (no pre setup required on 26 spectators: 1000hrs / Session 1 schools arrival : 1000 / Jan) (CSO will be catered based on / Aircon turned down (low fan) : 1030 / this timing) / Session 1 games start time : 1100 / Doors close: 1730hrs / Session 2 schools arrival : 1300 / Aircon & lights baseload (unable / Estimated Session 1 end time : 1350 to turn down aircon fyi) / Session 2 games start time : 1400 / Estimated Session 2 end time : 1700 / Handover and lights off : 1800 / Footer 6 / Hall 3 Netball Setup & Event Runsheet / OCBC Hall Time of events Qns/ remarks / Hall 3 schedule only for 27 Jan Lights on : 0900 Lights: 750lux / (no pre setup required on 26 Jan) Doors open / Org Secy arrival : 0900 Aircon 100% / Aircon on : 0930 HOTO: 0900hrs / Game 1 schools to arrive : 1000 Doors open for participants and / spectators: 1000hrs / Game 1 game to start : 1100 / (CSO will be catered based on / Game 2 schools to arrive : 1135 / this timing) / Game 2 game to start : 1235 / Doors close to spectators and / Game 3 schools to arrive : 1310 / participants: 1730hrs / Game 3 to start : 1410 / Game 4 schools to arrive : 1500 / Game 4 to start : 1600 / Handover and lights off : 1715 / Footer 7 / Hall 3 Volleyball Setup & Event Runsheet / OCBC Hall Time of Event / Hall 3 schedule only for 27 Jan Lights on : 0900 Netball to volleyball court / conversion: 1115 – 1140hrs / (no pre setup required on 26 Aircon on : 0930 / Jan) Doors open for participants / Game 1 schools to arrive : 1115 / and spectators: 1115hrs / Game 1 game to start : 1200 / Doors close to spectators / Game 2 schools to arrive : 1230 / and participants/matches / Game 2 game to start : 1315 ends: 1730hrs / Game 3 schools to arrive : 1345 / Game 3 to start : 1430 / Game 4 schools to arrive : 1500 / Game 4 to start : 1545 / Handover and lights off : 1730 / Footer 8 / Medical Plan / Medics provided by hirer's team on 27 Jan 2026. / Medic Plans: / Medical Provider: Hope Ambulance Service Pte Ltd / Timing of Arrival: 9am – 6pm / Team of 3 with ambulance located at lobby to be shared across halls. / Footer 9 / Transport Schedule – Coach Bay Drop Off / Footer 10 / Transport (based on 2025) / Spectators/participants Estimated Drop off Estimated Pick up time Location for drop off/ pick / time up / Participants for Starting from 1000 hrs Starting from 1200 hrs to Arena Park Coach Bay / Netball Competitions till 1515 hrs (2 buses on 1730hrs (2 buses on / every hour) every hour.) / Participants for Starting from 1000 till Starting from 1545 till Arena Park Coach Bay / Badminton Competitions 1315 (4 buses) 1715hrs / Footer 11 / Groundsman Requirement / Setup 1: 26 Jan, 1100 – 1600hrs (Hall 1A and half level 2 setup) / Setup 2: 26 Jan, 2000 – 0200hrs (Hall 2 setup at 2000, hall 3 setup / after 2200hrs) / Setup 3: 27 Jan, 1100 – 1600hrs (Hall 3 court change) / Teardown: 27 Jan, 1800hrs – 2300hrs (ALL halls together with Rugby 7 / setup) / Footer 12 / Manpower Dot / Plan / MOE Opening Ceremony (27 Jan 2026) / Hall 1 Manpower / Become main exit / after 1445hrs / AV 10.9m Public Entry",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:25.663516",
+      "lastUpdated": "2026-03-29T03:04:54.439394",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00002BFAF0390000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-689d06f9",
+          "id": "pdf-31d913bc",
           "fileName": "MOE NSG Opening Ceremony 2026_Briefing Slides (CCO & DS).pdf",
           "fileSize": 1743032,
           "localPath": "C:\\EventCalendar\\pdfs\\MOE NSG Opening_MOE_NSG_Opening_Ceremony_2026_Briefing_Slides__CCO___DS_.pdf"
@@ -659,7 +520,7 @@
       ]
     },
     {
-      "id": "evt-784942f8",
+      "id": "evt-4804ebb9",
       "eventName": "HSBC SVNS SINGAPORE 2026",
       "dateStart": "2026-01-31",
       "dateEnd": "2026-01-31",
@@ -669,18 +530,18 @@
       "remark": "",
       "whatsappContent": "*HSBC SVNS SINGAPORE 2026*\nVenue: Other\nDate: 31 Jan 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:06.126611",
+      "lastUpdated": "2026-03-29T03:06:27.422613",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003544B5400000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-6ab876ee",
+          "id": "pdf-ffab061a",
           "fileName": "260131_HSBC SVNS 2026_Event Runsheet (Match Day 1).pdf",
           "fileSize": 212053,
           "localPath": "C:\\EventCalendar\\pdfs\\HSBC SVNS SINGAPORE 2026_260131_HSBC_SVNS_2026_Event_Runsheet__Match_Day_1_.pdf"
         },
         {
-          "id": "pdf-f48e4004",
+          "id": "pdf-ca05fc33",
           "fileName": "260131_HSBC SVNS 26_Event Day Contact List.pdf",
           "fileSize": 107392,
           "localPath": "C:\\EventCalendar\\pdfs\\HSBC SVNS SINGAPORE 2026_260131_HSBC_SVNS_26_Event_Day_Contact_List.pdf"
@@ -688,7 +549,7 @@
       ]
     },
     {
-      "id": "evt-1315b392",
+      "id": "evt-8f0e2a37",
       "eventName": "HSBC SVNS 2026",
       "dateStart": "2026-02-01",
       "dateEnd": "2026-02-01",
@@ -698,18 +559,18 @@
       "remark": "",
       "whatsappContent": "*HSBC SVNS 2026*\nVenue: NSD\nDate: 1 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:58.992246",
+      "lastUpdated": "2026-03-29T03:06:20.227867",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003544B5410000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-a0128f0d",
+          "id": "pdf-080bbc99",
           "fileName": "260201_HSBC SVNS 2026_Event Runsheet (Match Day 2).pdf",
           "fileSize": 212993,
           "localPath": "C:\\EventCalendar\\pdfs\\HSBC SVNS 2026_260201_HSBC_SVNS_2026_Event_Runsheet__Match_Day_2_.pdf"
         },
         {
-          "id": "pdf-b4e02cd8",
+          "id": "pdf-f383856d",
           "fileName": "260201_HSBC SVNS 26_Event Day Contact List.pdf",
           "fileSize": 106569,
           "localPath": "C:\\EventCalendar\\pdfs\\HSBC SVNS 2026_260201_HSBC_SVNS_26_Event_Day_Contact_List.pdf"
@@ -717,7 +578,7 @@
       ]
     },
     {
-      "id": "evt-df00bdb1",
+      "id": "evt-20889ccc",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-02",
       "dateEnd": "2026-02-02",
@@ -727,18 +588,18 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 2 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:06.907022",
+      "lastUpdated": "2026-03-29T03:06:28.309007",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003544B53D0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-f3736f12",
+          "id": "pdf-17b21274",
           "fileName": "2026FEB02_Feburary Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 155431,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB02_Feburary_Stadium_Experience_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-5b79228a",
+          "id": "pdf-bb9d2acb",
           "fileName": "2026FEB02_Feburary Stadium Experience_Contact List_V1.pdf",
           "fileSize": 304646,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB02_Feburary_Stadium_Experience_Contact_List_V1.pdf"
@@ -746,7 +607,7 @@
       ]
     },
     {
-      "id": "evt-ee989db6",
+      "id": "evt-ae1825d7",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-03",
       "dateEnd": "2026-02-03",
@@ -756,24 +617,24 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 3 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:24.434522",
+      "lastUpdated": "2026-03-29T03:05:52.336470",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9380000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-27aac95e",
+          "id": "pdf-2662a4ee",
           "fileName": "2026FEB03_Feburary Stadium Experience_Runsheet_V2.pdf",
           "fileSize": 179728,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB03_Feburary_Stadium_Experience_Runsheet_V2.pdf"
         },
         {
-          "id": "pdf-5d363eb1",
+          "id": "pdf-b5da0b2d",
           "fileName": "2026FEB03_Feburary Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 179003,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB03_Feburary_Stadium_Experience_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-e1f4318c",
+          "id": "pdf-31e54d91",
           "fileName": "2026FEB03_Feburary Stadium Experience_Contact List_V1.pdf",
           "fileSize": 306236,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB03_Feburary_Stadium_Experience_Contact_List_V1.pdf"
@@ -781,7 +642,7 @@
       ]
     },
     {
-      "id": "evt-855af895",
+      "id": "evt-edff01b7",
       "eventName": "STADIUM EXPERIENCE & SRU CLUB SESSION (PM) RUNSHEET",
       "dateStart": "2026-02-04",
       "dateEnd": "2026-02-04",
@@ -791,18 +652,18 @@
       "remark": "",
       "whatsappContent": "*STADIUM EXPERIENCE & SRU CLUB SESSION (PM) RUNSHEET*\nVenue: NSD\nDate: 4 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:22.199849",
+      "lastUpdated": "2026-03-29T03:05:50.787462",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9370000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-9eeb746b",
+          "id": "pdf-08b2a138",
           "fileName": "2026FEB04_Feburary Stadium Experience_Contact List_V1.pdf",
           "fileSize": 304672,
           "localPath": "C:\\EventCalendar\\pdfs\\STADIUM EXPERIENCE _ SRU CLUB SESSION _P_2026FEB04_Feburary_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-fecaa35b",
+          "id": "pdf-0a139ad4",
           "fileName": "2026FEB04_Feburary Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 198245,
           "localPath": "C:\\EventCalendar\\pdfs\\STADIUM EXPERIENCE _ SRU CLUB SESSION _P_2026FEB04_Feburary_Stadium_Experience_Runsheet_V1.pdf"
@@ -810,7 +671,42 @@
       ]
     },
     {
-      "id": "evt-ed0a6196",
+      "id": "evt-bf720a82",
+      "eventName": "February Swim Series 2026",
+      "dateStart": "2026-02-05",
+      "dateEnd": "2026-02-05",
+      "venue": "AQC",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC\nDate: 5 Feb 2026",
+      "pdfCount": 3,
+      "lastUpdated": "2026-03-29T03:05:48.583280",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9320000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-260ff029",
+          "fileName": "[5 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
+          "fileSize": 93849,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__5_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
+        },
+        {
+          "id": "pdf-86f896ec",
+          "fileName": "Manpower Briefing Notes_Feb Swim Series 2026_(5 Feb).pdf",
+          "fileSize": 496152,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Manpower_Briefing_Notes_Feb_Swim_Series_2026__5_Feb_.pdf"
+        },
+        {
+          "id": "pdf-f46cb197",
+          "fileName": "Feb Swim Series 2026_Info Deck v1.1.pdf",
+          "fileSize": 8390543,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Feb_Swim_Series_2026_Info_Deck_v1.1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-6f672624",
       "eventName": "NSG RUGBY 'B' DIVISION & NATIONAL STADIUM EXPERIENCE (PM) RUNSHEET",
       "dateStart": "2026-02-05",
       "dateEnd": "2026-02-05",
@@ -820,18 +716,18 @@
       "remark": "",
       "whatsappContent": "*NSG RUGBY 'B' DIVISION & NATIONAL STADIUM EXPERIENCE (PM) RUNSHEET*\nVenue: NSD\nDate: 5 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:21.356433",
+      "lastUpdated": "2026-03-29T03:05:50.054596",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9360000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-a474d611",
+          "id": "pdf-684306f2",
           "fileName": "2026FEB05_Feburary Stadium Experience_Contact List_V1.pdf",
           "fileSize": 304870,
           "localPath": "C:\\EventCalendar\\pdfs\\NSG RUGBY _B_ DIVISION _ NATIONAL STADIU_2026FEB05_Feburary_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-f3aded34",
+          "id": "pdf-1878430b",
           "fileName": "2026FEB05_Feburary Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 175348,
           "localPath": "C:\\EventCalendar\\pdfs\\NSG RUGBY _B_ DIVISION _ NATIONAL STADIU_2026FEB05_Feburary_Stadium_Experience_Runsheet_V1.pdf"
@@ -839,7 +735,36 @@
       ]
     },
     {
-      "id": "evt-37ef137d",
+      "id": "evt-923093de",
+      "eventName": "February Swim Series 2026",
+      "dateStart": "2026-02-06",
+      "dateEnd": "2026-02-06",
+      "venue": "KTH",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*February Swim Series 2026*\nVenue: KTH\nDate: 6 Feb 2026",
+      "pdfCount": 2,
+      "lastUpdated": "2026-03-29T03:05:41.144636",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9310000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-2e5dee8f",
+          "fileName": "[6 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
+          "fileSize": 123035,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__6_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
+        },
+        {
+          "id": "pdf-520de7e6",
+          "fileName": "Manpower Briefing Notes_Feb Swim Series 2026_V1.0.pdf",
+          "fileSize": 3872477,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026_Manpower_Briefing_Notes_Feb_Swim_Series_2026_V1.0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-04e40db5",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-06",
       "dateEnd": "2026-02-06",
@@ -849,18 +774,18 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 6 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:12.839132",
+      "lastUpdated": "2026-03-29T03:05:42.082643",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9350000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-302770c2",
+          "id": "pdf-5653079e",
           "fileName": "2026FEB06_Feburary Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 207839,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB06_Feburary_Stadium_Experience_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-9e7e116a",
+          "id": "pdf-f5ae0074",
           "fileName": "2026FEB06_Feburary Stadium Experience_Contact List_V1.pdf",
           "fileSize": 302297,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB06_Feburary_Stadium_Experience_Contact_List_V1.pdf"
@@ -868,7 +793,7 @@
       ]
     },
     {
-      "id": "evt-59089e36",
+      "id": "evt-ad1952ce",
       "eventName": "SINGAPORE RUGBY UNION PREMIERSHIP 2026",
       "dateStart": "2026-02-07",
       "dateEnd": "2026-02-07",
@@ -878,18 +803,18 @@
       "remark": "",
       "whatsappContent": "*SINGAPORE RUGBY UNION PREMIERSHIP 2026*\nVenue: NSD\nDate: 7 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:08.948978",
+      "lastUpdated": "2026-03-29T03:05:38.044919",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9330000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-d10fba2a",
+          "id": "pdf-fee6d338",
           "fileName": "2026FEB07_Singapore Rugby Union Premiership 2026__Contact List_V1.pdf",
           "fileSize": 303091,
           "localPath": "C:\\EventCalendar\\pdfs\\SINGAPORE RUGBY UNION PREMIERSHIP 2026_2026FEB07_Singapore_Rugby_Union_Premiership_2026__Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-cbc52dcf",
+          "id": "pdf-62d764eb",
           "fileName": "2026FEB07_Singapore Rugby Union Premiership 2026__Runsheet_V1.1.pdf",
           "fileSize": 209830,
           "localPath": "C:\\EventCalendar\\pdfs\\SINGAPORE RUGBY UNION PREMIERSHIP 2026_2026FEB07_Singapore_Rugby_Union_Premiership_2026__Runsheet_V1.1.pdf"
@@ -897,7 +822,30 @@
       ]
     },
     {
-      "id": "evt-e7b2dcf2",
+      "id": "evt-c89c433b",
+      "eventName": "February Swim Series 2026",
+      "dateStart": "2026-02-07",
+      "dateEnd": "2026-02-07",
+      "venue": "AQC",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC\nDate: 7 Feb 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T03:05:38.886180",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9300000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-fc53ffd6",
+          "fileName": "[7 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
+          "fileSize": 139776,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__7_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-de6efb96",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-08",
       "dateEnd": "2026-02-08",
@@ -907,18 +855,18 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 8 Feb 2026",
       "pdfCount": 4,
-      "lastUpdated": "2026-03-29T03:00:57.477696",
+      "lastUpdated": "2026-03-29T03:06:18.659318",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B9340000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-f1b5f937",
+          "id": "pdf-2215cb4c",
           "fileName": "2026FEB08_February Stadium Experience_Runsheet_V1.pdf",
           "fileSize": 131293,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB08_February_Stadium_Experience_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-c16ee1e0",
+          "id": "pdf-5c7d63af",
           "fileName": "2026FEB08_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 302407,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB08_February_Stadium_Experience_Contact_List_V1.pdf"
@@ -926,7 +874,30 @@
       ]
     },
     {
-      "id": "evt-b56606d0",
+      "id": "evt-9b6e1eb6",
+      "eventName": "February Swim Series 2026",
+      "dateStart": "2026-02-08",
+      "dateEnd": "2026-02-08",
+      "venue": "AQC",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*February Swim Series 2026*\nVenue: AQC\nDate: 8 Feb 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T03:05:37.282234",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00003544B92F0000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-9bdbed5f",
+          "fileName": "[8 Feb] February Swim Series 2026_Internal Runsheet_v1.0.pdf",
+          "fileSize": 134558,
+          "localPath": "C:\\EventCalendar\\pdfs\\February Swim Series 2026__8_Feb__February_Swim_Series_2026_Internal_Runsheet_v1.0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-69aced69",
       "eventName": "NSG 2026 Volleyball B Division (South Zone)",
       "dateStart": "2026-02-11",
       "dateEnd": "2026-02-11",
@@ -936,12 +907,12 @@
       "remark": "",
       "whatsappContent": "*NSG 2026 Volleyball B Division (South Zone)*\nVenue: Arena\nDate: 11 Feb 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:25.197383",
+      "lastUpdated": "2026-03-29T03:04:53.880004",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00003A4FC0600000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-7519d1bc",
+          "id": "pdf-df5ecfe1",
           "fileName": "NSG Volleyball 2026 - Briefing Slides.pdf",
           "fileSize": 846060,
           "localPath": "C:\\EventCalendar\\pdfs\\NSG 2026 Volleyball B Division _South Zo_NSG_Volleyball_2026_-_Briefing_Slides.pdf"
@@ -949,7 +920,7 @@
       ]
     },
     {
-      "id": "evt-70c27cee",
+      "id": "evt-b5be39ee",
       "eventName": "NSG RUGBY 'B' DIVISION & NATIONAL STADIUM EXPERIENCE (PM) RUNSHEET",
       "dateStart": "2026-02-11",
       "dateEnd": "2026-02-11",
@@ -959,18 +930,18 @@
       "remark": "",
       "whatsappContent": "*NSG RUGBY 'B' DIVISION & NATIONAL STADIUM EXPERIENCE (PM) RUNSHEET*\nVenue: NSD\nDate: 11 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:55.521289",
+      "lastUpdated": "2026-03-29T03:06:16.797702",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C0000390BBC980000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-c854252b",
+          "id": "pdf-af322c8e",
           "fileName": "2026FEB11_February Stadium Experience_ Contact List_V1.pdf",
           "fileSize": 138148,
           "localPath": "C:\\EventCalendar\\pdfs\\NSG RUGBY _B_ DIVISION _ NATIONAL STADIU_2026FEB11_February_Stadium_Experience__Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-0c94fab4",
+          "id": "pdf-c6ef3a8a",
           "fileName": "2026FEB11_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 76840,
           "localPath": "C:\\EventCalendar\\pdfs\\NSG RUGBY _B_ DIVISION _ NATIONAL STADIU_2026FEB11_February_Stadium_Experience_Event_Runsheet_V1.pdf"
@@ -978,7 +949,7 @@
       ]
     },
     {
-      "id": "evt-05519e5e",
+      "id": "evt-4dbe5ce0",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-12",
       "dateEnd": "2026-02-12",
@@ -988,18 +959,18 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 12 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:54.730672",
+      "lastUpdated": "2026-03-29T03:06:16.086855",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C0000390BBC950000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-db1e5ad4",
+          "id": "pdf-2c3d3429",
           "fileName": "2026FEB12_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 75870,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB12_February_Stadium_Experience_Event_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-407c6869",
+          "id": "pdf-3bc1cb4a",
           "fileName": "2026FEB12_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 137380,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB12_February_Stadium_Experience_Contact_List_V1.pdf"
@@ -1007,7 +978,7 @@
       ]
     },
     {
-      "id": "evt-9d485a7f",
+      "id": "evt-1ddbf8cd",
       "eventName": "FEBRUARY NATIONAL STADIUM EXPERIENCE",
       "dateStart": "2026-02-14",
       "dateEnd": "2026-02-14",
@@ -1017,18 +988,18 @@
       "remark": "",
       "whatsappContent": "*FEBRUARY NATIONAL STADIUM EXPERIENCE*\nVenue: NSD\nDate: 14 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:53.238216",
+      "lastUpdated": "2026-03-29T03:06:14.652559",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003EB28D0F0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-84bb4731",
+          "id": "pdf-e35c34c8",
           "fileName": "2026FEB14_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 290287,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB14_February_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-3b273908",
+          "id": "pdf-1663afba",
           "fileName": "2026FEB14_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 131185,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB14_February_Stadium_Experience_Event_Runsheet_V1.pdf"
@@ -1036,7 +1007,7 @@
       ]
     },
     {
-      "id": "evt-595b5b90",
+      "id": "evt-e97f22fd",
       "eventName": "National Stadium Experience",
       "dateStart": "2026-02-15",
       "dateEnd": "2026-02-15",
@@ -1046,18 +1017,18 @@
       "remark": "",
       "whatsappContent": "*National Stadium Experience*\nVenue: NSD\nDate: 15 Feb 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:52.255650",
+      "lastUpdated": "2026-03-29T03:06:13.688253",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003EB28D0E0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-dae6087a",
+          "id": "pdf-3725ad9e",
           "fileName": "2026FEB15_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 133313,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB15_February_Stadium_Experience_Event_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-55aea12f",
+          "id": "pdf-b8383d18",
           "fileName": "2026FEB15_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 302016,
           "localPath": "C:\\EventCalendar\\pdfs\\National Stadium Experience_2026FEB15_February_Stadium_Experience_Contact_List_V1.pdf"
@@ -1065,7 +1036,7 @@
       ]
     },
     {
-      "id": "evt-44a99d27",
+      "id": "evt-0f74822d",
       "eventName": "FEBRUARY NATIONAL STADIUM EXPERIENCE",
       "dateStart": "2026-02-17",
       "dateEnd": "2026-02-17",
@@ -1075,30 +1046,30 @@
       "remark": "",
       "whatsappContent": "*FEBRUARY NATIONAL STADIUM EXPERIENCE*\nVenue: NSD\nDate: 17 Feb 2026",
       "pdfCount": 4,
-      "lastUpdated": "2026-03-29T03:00:51.149418",
+      "lastUpdated": "2026-03-29T03:06:12.615325",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003EB28D0D0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-a532e84c",
+          "id": "pdf-79c3d422",
           "fileName": "2026FEB17_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 290203,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB17_February_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-99a3e21c",
+          "id": "pdf-832c19d0",
           "fileName": "2026FEB17_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 127181,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB17_February_Stadium_Experience_Event_Runsheet_V1.pdf"
         },
         {
-          "id": "pdf-aae73aa1",
+          "id": "pdf-deb9dcc0",
           "fileName": "2026FEB18_February Stadium Experience_Contact List_V1.pdf",
           "fileSize": 291155,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB18_February_Stadium_Experience_Contact_List_V1.pdf"
         },
         {
-          "id": "pdf-397026ab",
+          "id": "pdf-ad0d60d0",
           "fileName": "2026FEB18_February Stadium Experience_Event Runsheet_V1.pdf",
           "fileSize": 127544,
           "localPath": "C:\\EventCalendar\\pdfs\\FEBRUARY NATIONAL STADIUM EXPERIENCE_2026FEB18_February_Stadium_Experience_Event_Runsheet_V1.pdf"
@@ -1106,7 +1077,7 @@
       ]
     },
     {
-      "id": "evt-1593c65e",
+      "id": "evt-d6a166e9",
       "eventName": "ACS 140",
       "dateStart": "2026-02-19",
       "dateEnd": "2026-02-26",
@@ -1116,12 +1087,12 @@
       "remark": "",
       "whatsappContent": "*ACS 140*\nVenue: NSD\nDate: 19 Feb 2026 - 26 Feb 2026\n\n*Event Info*\n5.45AM: HIRER BUMP -IN AND SET UP – START\n9.00AM: PARADE & PERFORMERS – ARRIVE AT VENUE (VIA EAST TUNNEL)\n11.00AM: REHEARSAL – START\n12.30PM: ALL GATES – OPEN (GENERAL ENTRY)\n2.00PM: GUEST OF HONOUR DR NG ENG HEN – ARRIVE AT VENUE / EVENT – END\n4.00PM: POST -EVENT RECEPTION AT OCBC LOUNGE – START / POST -EVENT RECEPTION AT OCBC LOUNGE – END\n5.00PM: ALL GATES – CLOSE / LAST CHARTERED BUS – DEPART FROM VENUE TBC\n10.00PM: HIRER BUMP -OUT AND TEAR DOWN – END",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:01:30.666349",
+      "lastUpdated": "2026-03-29T03:06:51.838856",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB160000A4F56E422208C1468AF7D05A97B0783C00003EB281490000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-08161be0",
+          "id": "pdf-f8b9cb7f",
           "fileName": "2026FEB26_ACS 140 FOUNDERS DAY_Event Brief_V1.1.pdf",
           "fileSize": 6918501,
           "localPath": "C:\\EventCalendar\\pdfs\\ACS 140_2026FEB26_ACS_140_FOUNDERS_DAY_Event_Brief_V1.1.pdf"
@@ -1129,7 +1100,36 @@
       ]
     },
     {
-      "id": "evt-6aa99d10",
+      "id": "evt-180a7679",
+      "eventName": "ACS 140th Founder Day",
+      "dateStart": "2026-02-26",
+      "dateEnd": "2026-02-26",
+      "venue": "Other",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*ACS 140th Founder Day*\nVenue: Other\nDate: 26 Feb 2026",
+      "pdfCount": 2,
+      "lastUpdated": "2026-03-29T03:06:10.750564",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004F4CE8E20000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-1a713bfe",
+          "fileName": "2026FEB26_ACS 140th Founder Day_Event Runsheet_V1.pdf",
+          "fileSize": 2837551,
+          "localPath": "C:\\EventCalendar\\pdfs\\ACS 140th Founder Day_2026FEB26_ACS_140th_Founder_Day_Event_Runsheet_V1.pdf"
+        },
+        {
+          "id": "pdf-23aef8e2",
+          "fileName": "2026FEB26_ACS 140th Founder Day_Event Contact List_V1.pdf",
+          "fileSize": 310946,
+          "localPath": "C:\\EventCalendar\\pdfs\\ACS 140th Founder Day_2026FEB26_ACS_140th_Founder_Day_Event_Contact_List_V1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-d961f0dd",
       "eventName": "DAVID TAO SOUL POWER II WORLD TO-U SRIN GAPORE",
       "dateStart": "2026-02-28",
       "dateEnd": "2026-02-28",
@@ -1139,18 +1139,18 @@
       "remark": "",
       "whatsappContent": "*DAVID TAO SOUL POWER II WORLD TO-U SRIN GAPORE*\nVenue: Arena\nDate: 28 Feb 2026\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Laptops and Tablets\n- Outside food and drinks • Standard venue conditions\n- Weapons (e.g. Pocket knives, scissors, tools) include no outside food and\n- drinks, no weapons, any long\n- Long sticks (Selfie stick, tripods/monopods, telephoto lens,\n- gimbal)\n- sticks (including gimbal), no\n- Re-entry\n- action cameras\n- Infant in arms and children below 3 years old\n- Empty personal water bottles\n- (Glass bottles not allowed)\n- Children below 12 years old without 18 years old guardian\n- Child policy: 3 years old and\n- Professional Photography, Videography, Live streaming\n- above must purchase a ticket for\n- ALL cameras\n- (DSLR, Action camera, Digital camera)\n- admission. No children below 3\n- Fan boards, LED boards, banners, posters, flags above A3 size",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:35.670259",
+      "lastUpdated": "2026-03-29T03:06:56.831929",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB160000A4F56E422208C1468AF7D05A97B0783C00003544C1000000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-f9ff44ca",
+          "id": "pdf-ada80bf5",
           "fileName": "David Tao 2026 - Production Meeting Slides.pdf",
           "fileSize": 6748365,
           "localPath": "C:\\EventCalendar\\pdfs\\DAVID TAO SOUL POWER II WORLD TO-U SRIN _David_Tao_2026_-_Production_Meeting_Slides.pdf"
         },
         {
-          "id": "pdf-e15820f7",
+          "id": "pdf-23a9db0c",
           "fileName": "Production Meeting Minutes_David Tao 2026 V1.pdf",
           "fileSize": 414985,
           "localPath": "C:\\EventCalendar\\pdfs\\DAVID TAO SOUL POWER II WORLD TO-U SRIN _Production_Meeting_Minutes_David_Tao_2026_V1.pdf"
@@ -1158,7 +1158,7 @@
       ]
     },
     {
-      "id": "evt-66dc0109",
+      "id": "evt-5e19f9bd",
       "eventName": "Singapore Smash",
       "dateStart": "2026-03-04",
       "dateEnd": "2026-02-24",
@@ -1168,12 +1168,12 @@
       "remark": "",
       "whatsappContent": "*Singapore Smash*\nVenue: Arena\nDate: 4 Mar 2026 - 24 Feb 2026\n\n*Event Info*\n1800hrs: Match / Schedule & / Clinic Sessions / Match Schedule Private and confidential, The Kallang Group Pte. Ltd. 5 / Match Schedule – Qualifying Days (19 Feb – 21 Feb) / Match Schedule – Main Draw (22 Feb – 25 Feb) / Match Schedule – Main Draw (26 Feb & 27 Feb) / Match Schedule – Main Draw (28 Feb & 1 Mar) / Smash the Stage Private and confidential, The Kallang Group Pte. Ltd. 9 / Smash the Stage (28 Feb & 1 Mar) / Tables 2, 3 and 4 in Hall 2 are available for / booking for members of the public with / valid tickets. / Admission: Ticketed. / 2-hours block for each bookers (6 pax per / table) / Sat, 28 Feb (7.30pm & 9.30pm) / Sun, 1 Mar (10am, 12pm, 2pm, 4pm, / 6pm and 8pm) / WTT clinic Private and confidential, The Kallang Group Pte. Ltd. 10 / WTT Clinic Information / Kid’s Clinic (PR & Marketing) / Venue: Hall 6 / Expected pax: 120 pax per session / Date: / 22 Feb 2026, Sunday 4-5pm / 28 Feb 2026, Saturday 4-5pm / Students will arrive at the lobby and WTT will provide wristbands for them and escort / to Hall 6. / Coaches’ Clinic (China Media) / Venue: Hall 3 / Expected pax: 60 pax\n9.30am: - Date: 24 Feb 2026, Tuesday",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:24.481965",
+      "lastUpdated": "2026-03-29T03:04:53.219703",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00003E0F84FA0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-8d0cb312",
+          "id": "pdf-779d9a62",
           "fileName": "Singapore Smash 2026 - Briefing Slides (CCO & DS).pdf",
           "fileSize": 7614151,
           "localPath": "C:\\EventCalendar\\pdfs\\Singapore Smash_Singapore_Smash_2026_-_Briefing_Slides__CCO___DS_.pdf"
@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "id": "evt-db13aa0f",
+      "id": "evt-d86a3c72",
       "eventName": "OCBC Arena Coverage",
       "dateStart": "2026-03-05",
       "dateEnd": "2026-03-05",
@@ -1191,13 +1191,13 @@
       "remark": "",
       "whatsappContent": "*OCBC Arena Coverage*\nVenue: Arena\nDate: 2026-03-05",
       "pdfCount": 0,
-      "lastUpdated": "2026-03-29T02:59:23.993272",
+      "lastUpdated": "2026-03-29T03:04:52.751585",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00004F4CF8E40000",
       "archived": 0,
       "pdfs": []
     },
     {
-      "id": "evt-73d600f2",
+      "id": "evt-f69f5765",
       "eventName": "Production Meeting Minutes – George Lam & Sally Yeh",
       "dateStart": "2026-03-10",
       "dateEnd": "2026-03-10",
@@ -1207,18 +1207,18 @@
       "remark": "",
       "whatsappContent": "*Production Meeting Minutes – George Lam & Sally Yeh*\nVenue: Arena\nDate: 10 Mar 2026\n\n*Event Info*\n0900hrs: o For safety purposes, catwalk inspections will / be conducted after setup/before show and / after tear down concluded. All items brought / up to catwalk are required to be declared. / Fines will be imposed for any items found / unattended or left over on the catwalk / Safety instruction form / oAppointment of Event Safety In -Charge / oMandatory Helmet Wearing during Event Setup / & Teardown / oEvent Professional Engineers (PE) physical / inspection of event setup and sign -off / oEndorsed safety acknowledgement form to / attach in eWA for rigging works / PRODUCTION AND SETUP 6 / Safety related matters: / Fire safety / *Fire extinguishers to be in place at FOH, / generators and distribution boards. / Clear emergency evacuation pathway of / 1.8m to be maintained. Safety walk will / be conducted prior to event day to / rectify any safety breaches / oSafety Walk Date and Time: Fri, 03 Apr,\n1300hrs: PRODUCTION AND SETUP 7 / Power / Number of generators: Yes / Use of in-house power: Yes / additional 300mps at Zone 3 / o Safety documents required, along with endorsed CoC, SLD / and presence of LEW when tapping on in -house power / o Plot Gen Set into the layout (Loading Bay) by Fri, 20 Mar / Special effects / Pyrotechnics / Confetti / Haze machine / Flame / Sparkular / Laser / *Use of haze and pyrotechnic will require silencing of fire bell / and standby duty technician till completion of usage. Pyro / test date must be scheduled prior to show / Operation disruption timing: by 20 Mar / o No extension from timing provided, please cater additional / timing for dispersal of haze (Haze machine to be switched / off 30 mins before end time) / Sound considerations / Rehearsal after 10pm must ensure sound to be under 55dBA / Sound engineer to be engaged if rehearsal ends after 10pm / ADDITIONAL 300 AMP POWER 8 / (ZONE 3 TUNNEL) / PRODUCTION AND SETUP 9 / PRODUCTION AND SETUP 10 / FM related matters: / Event Space HOTO / Identify existing or new damages during BI & BO (joint inspection) / Note: The in-house CCTV camera does not cover 100% SIS, there / will be some blind spot in which the CCTV unable to capture or due to / obstruction. / o BOH / ❖Corridors (refer to list attached) / ❖Rooms & suites (refer inventory list at site) / o Arena / Meter / Zone tunnels (Duty tech) / o Carpark Lots K001 – K017 at loading bay (Duty Tech) / PRODUCTION AND SETUP 11 / FM related matters: / Safety issue / Arena Section 100 Swing Gate / o undertaking by Hirer/Production during the / Arena HO if requested to unlock any swing gate / at SIS arena. / Effective 01 Mar 2023 / PRODUCTION AND SETUP 12 / FM related matters: / Rigging / Roof Loading / (effective 15 May 2023 onwards) / Distribution of load must be 1 ton and below spread across all 174 / rigging points. / PE endorsement with PE stamp and PE number / Indicative on the signed PE on the below sentencing (>40T) / ❑We acknowledge that the standard load limit for the Singapore / Indoor Stadium Roof is 40 Tonnes and for this event ______ / (Name/Date), I certify that the load limit is ____tonnes and that / each point distribution is one tonne or less. / PRODUCTION AND SETUP 13 / PRODUCTION AND SETUP 14 / EVENT OVERVIEW 15 / Event details: / Event Dates: 04 & 05 Apr 2026 / Doors Open: 1730hrs / Show Start: 1900hrs – 2100hrs / Sections open: 208 -234, 308 -334, PA 1 – PC 1, PA 2 – PC 2 / Entrances: Premier, Premier West, North, East / Expected crowd size and demographics: 8,595 (3,064 on Floor) / Deposit Counter Operating Hours: NA / Box office operating hours: TBC / Permits & licenses / Arts/Public Entertainment License: Submitted/ Not submitted / Public liability insurance: Submitted/ Not submitted / Notice of intent to organise event: Submitted/ Not submitted /Not applicable / Temporary change of use: Submitted /Not submitted /Not applicable / BCA License: Advisable to apply / APO engagement: 1+8(1630hrs) Company: Aetos/Cisco / EVENT OVERVIEW 16 / Ticketing and accreditation / Ticketed event, ticketing agent: SISTIC / Accreditation effective period: 30 Mar, 1200hrs / Venue wristbands will be required for working crew / to enter patron entrances: TBC / Setup and teardown wristbands for working / crew by 20 Mar / Accreditation for venue: 24 Venue passes, 6 All / Access passes / Media & Photographer access, credentials and / escort details / TKG staff would enter via admin lobby using their / staff pass, or TKG uniform daily. Routine / cleaners/technicians will enter via loading bay to / their store / BOH ACCESS OPTION 17 / SIS Function / SIS Arena Floor Rooms & BOH / Corridors / Access route for FM office / No access from 30 March – 6 April / BOH ACCESS OPTION 18 / SIS Function / Rooms & BOH / SIS Arena Floor / Corridors / Access route for FM office / No access from 30 March – 6 April / EVENT OVERVIEW 19 / Conditions of entry / Conditions of entry / Allowed Not Allowed / Outside food and drinks / Standard venue conditions / Weapons (e.g. Pocket knives, scissors, tools) / and include no outside food and / Long sticks (Selfie stick, tripods/monopods, / Empty personal water bottles / drinks, no weapons, any long / telephoto lens, gimbal) / (Glass bottles not allowed) / sticks (including gimbal), no / Re-entry / action cameras / Children below 12 years old without 18 years old / guardian / Professional Photography, Videography, Live • Child policy: 4 years old and / streaming / above must purchase a ticket for / ALL cameras / admission. No children below 4 / Laptop and Tablets (DSLR, Action camera, Film, Polaroid, Toy / years old allowed into the Venue. / (Kept and not be used in Venue) cameras) / Fan boards, LED boards, banners, posters, flags / above A3 size • Any unique conditions: / (Should not contain any offensive language/political / Binoculars / messages/brandings) / Stuffed Toys / Light sticks above 40cm / ALL Umbrellas • Flowers/Gift / Noise makers/Laser pointers / (Collapsible and Non-collapsible) / Helmets/Luggage/Glass bottles/Aerosol bottles / Strictly NO Country Flags / EVENT OVERVIEW 20 / VIPs, hospitality and distributions / Ministers and VIP with special security arrangements: TBC / Sponsors activations/hospitality hosting: / ▪ Skybar : TBC / ▪ North Box: TBC / ▪ OCBC Suite: TBC / Distributions and locations: TBC / Light Stick / Clappers / Photo wall: LIGHTSTICKS / Merchandise booth locations: TBC / Meet and greets/Send off: TBC / EVENT OVERVIEW 21 / Catering and Hospitality / Concession to be operational once doors open / BOH catering / Water point / Hospitality catering / Patron Distribution\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Outside food and drinks\n- Standard venue conditions\n- Weapons (e.g. Pocket knives, scissors, tools)\n- and include no outside food and\n- Long sticks (Selfie stick, tripods/monopods,\n- Empty personal water bottles\n- drinks, no weapons, any long\n- telephoto lens, gimbal)\n- (Glass bottles not allowed)\n- sticks (including gimbal), no\n- Re-entry\n- action cameras\n- Children below 12 years old without 18 years old\n- guardian\n- Professional Photography, Videography, Live • Child policy: 4 years old and\n- streaming\n- above must purchase a ticket for\n- ALL cameras\n- admission. No children below 4\n- Laptop and Tablets (DSLR, Action camera, Film, Polaroid, Toy",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T02:59:31.322619",
+      "lastUpdated": "2026-03-29T03:05:00.119352",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F80000A4F56E422208C1468AF7D05A97B0783C00004F4D42A20000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-378cf19b",
+          "id": "pdf-b9efae73",
           "fileName": "Production Meeting Agenda - GLSY 2026.pdf",
           "fileSize": 502210,
           "localPath": "C:\\EventCalendar\\pdfs\\Production Meeting Minutes _ George Lam _Production_Meeting_Agenda_-_GLSY_2026.pdf"
         },
         {
-          "id": "pdf-22095032",
+          "id": "pdf-9eac2732",
           "fileName": "Production Meeting Slides _GLSY.pdf",
           "fileSize": 6218459,
           "localPath": "C:\\EventCalendar\\pdfs\\Production Meeting Minutes _ George Lam _Production_Meeting_Slides__GLSY.pdf"
@@ -1226,7 +1226,7 @@
       ]
     },
     {
-      "id": "evt-05d9bd63",
+      "id": "evt-b8a917bb",
       "eventName": "SportCares Mini Triathlon",
       "dateStart": "2026-03-10",
       "dateEnd": "2026-03-27",
@@ -1236,18 +1236,18 @@
       "remark": "",
       "whatsappContent": "*SportCares Mini Triathlon*\nVenue: AQC\nDate: 10 Mar 2026 - 27 Mar 2026\n\n*Event Info*\n3:50pm: Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 1 (Swimming) / Running Stadium Riverside Walk FLAG OFF - Running Wave 2 (Running) / RUNNING\n3:55pm: Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 2 (Swimming) / Wave 1 – 20 children / Running Stadium Riverside Walk FLAG OFF - Running Wave 3 (Running) Wave 2 – 15 children\n4:00pm: Wave 3 – 15 children / Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 3 (Swimming) / 4:05pm Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 1 (Cycling) / 4:10pm Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 2 (Cycling) / Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 3 (Cycling)\n4:15pm: Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 1 (Cycling) / Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 2 (Cycling) / TRIATHLON\n4:20pm: RUNNING - END / Wave 1 – 12 children / Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 3 (Cycling) Wave 2 – 10 children\n4:25pm: Wave 3 – 10 children / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 1 (Running) / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 2 (Running)\n4:30pm: Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 1 (Running) / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 3 (Running)\n4:35pm: Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 2 (Running) / 4:40pm Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 3 (Running) / DUATHLON / 4:45pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 1 (Cycling) / Wave 1 – 15 children / 4:50pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 2 (Cycling) Wave 2 – 15 children / Wave 3 – 14 children / 4:55pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 3 (Cycling) / All Rights re5s:e00rvpemd © I_Possible Pte Ltd. TRIATHLON - END / The concepts & design represented are the sole property of I_Possible Pte Ltd. 4 / Any reprod5u:1c5tipomn without written consent is prohibited. DUATHLON - END / A C C R E D I T A T I O N – W R I S T T A G & B A N D S / Red Wrist Tag will be given during / registration for accreditation / into AQC / Pink silicone bands will be given to Purple silicone bands will be given to Green silicone bands will be given to / athletes after they complete the athletes after they complete the athletes after they complete the / Swimming segment Cycling segment Running segment / All Rights reserved © I_Possible Pte Ltd. / The concepts & design represented are the sole property of I_Possible Pte Ltd. 5 / Any reproduction without written consent is prohibited. / A C C R E D I T A T I O N - B I B S",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T02:59:37.293655",
+      "lastUpdated": "2026-03-29T03:05:06.217590",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F90000A4F56E422208C1468AF7D05A97B0783C00005334927C0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-296e5360",
+          "id": "pdf-d25ac95f",
           "fileName": "260311 I_Possible_SportSG Mini Triathlon 27 March_V2.pdf",
           "fileSize": 1550962,
           "localPath": "C:\\EventCalendar\\pdfs\\SportCares Mini Triathlon_260311_I_Possible_SportSG_Mini_Triathlon_27_March_V2.pdf"
         },
         {
-          "id": "pdf-de4f7cea",
+          "id": "pdf-69325ef8",
           "fileName": "SportCares MultiSport Events 2026 - Overall Layout.pdf",
           "fileSize": 332811,
           "localPath": "C:\\EventCalendar\\pdfs\\SportCares Mini Triathlon_SportCares_MultiSport_Events_2026_-_Overall_Layout.pdf"
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "id": "evt-35b1e986",
+      "id": "evt-0127b191",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-13",
       "dateEnd": "2026-03-13",
@@ -1265,18 +1265,18 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 13 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:05.219163",
+      "lastUpdated": "2026-03-29T03:05:34.334143",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004E0867AC0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-7fca567a",
+          "id": "pdf-8a8e30cd",
           "fileName": "SNAG 2026_Internal Runsheet_14 March_Event Day 2.pdf",
           "fileSize": 119972,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_14_March_Event_Day_2.pdf"
         },
         {
-          "id": "pdf-4ac5d06c",
+          "id": "pdf-6b461e07",
           "fileName": "SNAG 2026_Internal Runsheet_13 March_Event Day 1.pdf",
           "fileSize": 124012,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_13_March_Event_Day_1.pdf"
@@ -1284,7 +1284,7 @@
       ]
     },
     {
-      "id": "evt-ba6959c1",
+      "id": "evt-7d3789bc",
       "eventName": "DISNEY ON ICE PRESENTS MAGIC IN THE STARS",
       "dateStart": "2026-03-13",
       "dateEnd": "2026-03-15",
@@ -1294,12 +1294,12 @@
       "remark": "",
       "whatsappContent": "*DISNEY ON ICE PRESENTS MAGIC IN THE STARS*\nVenue: NSD\nDate: 13 Mar 2026 - 15 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:42.771057",
+      "lastUpdated": "2026-03-29T03:06:04.184569",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004F4CE8E70000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-e146f204",
+          "id": "pdf-dce168d6",
           "fileName": "2026MAR14&15_PRODUCTION MEETING_SCS RELAY FOR LIFE 2026.pdf",
           "fileSize": 5121504,
           "localPath": "C:\\EventCalendar\\pdfs\\DISNEY ON ICE PRESENTS MAGIC IN THE STAR_2026MAR14_15_PRODUCTION_MEETING_SCS_RELAY_FOR_LIFE_2026.pdf"
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "id": "evt-a9bd7148",
+      "id": "evt-e9869238",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-15",
       "dateEnd": "2026-03-15",
@@ -1317,12 +1317,12 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 15 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:03.676192",
+      "lastUpdated": "2026-03-29T03:05:32.887543",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004E0867AB0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-1aa6175e",
+          "id": "pdf-227c3b38",
           "fileName": "SNAG 2026_Internal Runsheet_15 March_Event Day 3.pdf",
           "fileSize": 125251,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_15_March_Event_Day_3.pdf"
@@ -1330,7 +1330,7 @@
       ]
     },
     {
-      "id": "evt-f028baa9",
+      "id": "evt-941ce49d",
       "eventName": "Legends",
       "dateStart": "2026-03-15",
       "dateEnd": "2026-03-15",
@@ -1340,18 +1340,18 @@
       "remark": "",
       "whatsappContent": "*Legends*\nVenue: NSD\nDate: 15 Mar 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:34.846926",
+      "lastUpdated": "2026-03-29T03:05:58.639998",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00004E0871800000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-c4b5e0f5",
+          "id": "pdf-9c4eef42",
           "fileName": "2026MAR14&15_RUNSHEET_SCS RFL 2026.pdf",
           "fileSize": 387250,
           "localPath": "C:\\EventCalendar\\pdfs\\Legends_2026MAR14_15_RUNSHEET_SCS_RFL_2026.pdf"
         },
         {
-          "id": "pdf-632c613e",
+          "id": "pdf-400f517f",
           "fileName": "2026MAR14&15_CONTACT LIST_SCS RFL 2026.pdf",
           "fileSize": 231550,
           "localPath": "C:\\EventCalendar\\pdfs\\Legends_2026MAR14_15_CONTACT_LIST_SCS_RFL_2026.pdf"
@@ -1359,7 +1359,7 @@
       ]
     },
     {
-      "id": "evt-4f120c07",
+      "id": "evt-2ea44d97",
       "eventName": "GM Jet Chess School Holding Area",
       "dateStart": "2026-03-16",
       "dateEnd": "2026-03-17",
@@ -1369,12 +1369,12 @@
       "remark": "",
       "whatsappContent": "*GM Jet Chess School Holding Area*\nVenue: Arena\nDate: 16 Mar 2026 - 17 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:22.876814",
+      "lastUpdated": "2026-03-29T03:04:51.470719",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB200000A4F56E422208C1468AF7D05A97B0783C00004F4CF8E80000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-491aaa48",
+          "id": "pdf-aee21e87",
           "fileName": "GM Jet Chess School Holding Area Briefing Deck-2.pdf",
           "fileSize": 925699,
           "localPath": "C:\\EventCalendar\\pdfs\\GM Jet Chess School Holding Area_GM_Jet_Chess_School_Holding_Area_Briefing_Deck-2.pdf"
@@ -1382,7 +1382,7 @@
       ]
     },
     {
-      "id": "evt-52660d35",
+      "id": "evt-52dae515",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-16",
       "dateEnd": "2026-03-16",
@@ -1392,12 +1392,12 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 16 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:02.943279",
+      "lastUpdated": "2026-03-29T03:05:32.052885",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004F4CDD160000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-729c2b06",
+          "id": "pdf-547babe1",
           "fileName": "SNAG 2026_Internal Runsheet_16 March_Event Day 4.pdf",
           "fileSize": 50754,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_16_March_Event_Day_4.pdf"
@@ -1405,7 +1405,7 @@
       ]
     },
     {
-      "id": "evt-b21b52d4",
+      "id": "evt-b6e7bb44",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-17",
       "dateEnd": "2026-03-17",
@@ -1415,12 +1415,12 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 17 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:02.517994",
+      "lastUpdated": "2026-03-29T03:05:31.627562",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004F4CDD150000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-de3fb547",
+          "id": "pdf-dadbaff6",
           "fileName": "SNAG 2026_Internal Runsheet_17 March_Event Day 5.pdf",
           "fileSize": 81630,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_17_March_Event_Day_5.pdf"
@@ -1428,7 +1428,7 @@
       ]
     },
     {
-      "id": "evt-d02ef81d",
+      "id": "evt-b298d448",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-18",
       "dateEnd": "2026-03-18",
@@ -1438,12 +1438,12 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 18 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:58.436022",
+      "lastUpdated": "2026-03-29T03:05:27.329609",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004F950B6B0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-6a4a82d4",
+          "id": "pdf-b25f524b",
           "fileName": "SNAG 2026_Internal Runsheet_18 March_Event Day 5.pdf",
           "fileSize": 169111,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_18_March_Event_Day_5.pdf"
@@ -1451,7 +1451,7 @@
       ]
     },
     {
-      "id": "evt-d33d33d1",
+      "id": "evt-e84f296b",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-19",
       "dateEnd": "2026-03-19",
@@ -1461,12 +1461,12 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 19 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:57.338777",
+      "lastUpdated": "2026-03-29T03:05:26.349802",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004FC360800000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-92923ac9",
+          "id": "pdf-75395aff",
           "fileName": "SNAG 2026_Internal Runsheet_19 March_Event Day 6.pdf",
           "fileSize": 158382,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_19_March_Event_Day_6.pdf"
@@ -1474,7 +1474,7 @@
       ]
     },
     {
-      "id": "evt-24f8f8f4",
+      "id": "evt-fb1d197f",
       "eventName": "56th SNAG 2026",
       "dateStart": "2026-03-20",
       "dateEnd": "2026-03-20",
@@ -1484,24 +1484,24 @@
       "remark": "",
       "whatsappContent": "*56th SNAG 2026*\nVenue: AQC\nDate: 20 Mar 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:56.467034",
+      "lastUpdated": "2026-03-29T03:05:25.367106",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C0000522375E90000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-489b33ac",
+          "id": "pdf-ea71cf93",
           "fileName": "SNAG 2026_Internal Runsheet_22 March_Event Day 9.pdf",
           "fileSize": 141999,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_22_March_Event_Day_9.pdf"
         },
         {
-          "id": "pdf-72f0a8f8",
+          "id": "pdf-86e43d5c",
           "fileName": "SNAG 2026_Internal Runsheet_21 March.pdf",
           "fileSize": 125542,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_21_March.pdf"
         },
         {
-          "id": "pdf-1e9b8ad2",
+          "id": "pdf-432e4f30",
           "fileName": "SNAG 2026_Internal Runsheet_20 March_Event Day 7.pdf",
           "fileSize": 132941,
           "localPath": "C:\\EventCalendar\\pdfs\\56th SNAG 2026_SNAG_2026_Internal_Runsheet_20_March_Event_Day_7.pdf"
@@ -1509,7 +1509,7 @@
       ]
     },
     {
-      "id": "evt-74a1a488",
+      "id": "evt-0e71b1c4",
       "eventName": "The Great Family Play Day",
       "dateStart": "2026-03-22",
       "dateEnd": "2026-03-22",
@@ -1519,18 +1519,18 @@
       "remark": "",
       "whatsappContent": "*The Great Family Play Day*\nVenue: NSD\nDate: 22 Mar 2026",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T02:59:47.504398",
+      "lastUpdated": "2026-03-29T03:05:16.383542",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F90000A4F56E422208C1468AF7D05A97B0783C00004F4D4A910000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-fbeb5a14",
+          "id": "pdf-759f412e",
           "fileName": "The Great Family Play Day 2026 - Program.pdf",
           "fileSize": 794928,
           "localPath": "C:\\EventCalendar\\pdfs\\The Great Family Play Day_The_Great_Family_Play_Day_2026_-_Program.pdf"
         },
         {
-          "id": "pdf-518be4f0",
+          "id": "pdf-8449bf35",
           "fileName": "The Great Family Play Day 2026 - Event Deck.pdf",
           "fileSize": 2613392,
           "localPath": "C:\\EventCalendar\\pdfs\\The Great Family Play Day_The_Great_Family_Play_Day_2026_-_Event_Deck.pdf"
@@ -1538,7 +1538,7 @@
       ]
     },
     {
-      "id": "evt-0056c6b6",
+      "id": "evt-20f2c68e",
       "eventName": "Manpower Briefing Notes",
       "dateStart": "2026-03-22",
       "dateEnd": "2026-03-22",
@@ -1548,18 +1548,18 @@
       "remark": "",
       "whatsappContent": "*Manpower Briefing Notes*\nVenue: AQC\nDate: 22 Mar 2026\n\n*Event Info*\n9.30pm: o Except for 13 March: 2.15pm –",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:00:06.179789",
+      "lastUpdated": "2026-03-29T03:05:35.461088",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004F4CDD180000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-8bf469e6",
+          "id": "pdf-69a02621",
           "fileName": "Manpower Briefing Notes - SNAG 2026.pdf",
           "fileSize": 2927537,
           "localPath": "C:\\EventCalendar\\pdfs\\Manpower Briefing Notes_Manpower_Briefing_Notes_-_SNAG_2026.pdf"
         },
         {
-          "id": "pdf-b07b7cb2",
+          "id": "pdf-0e9b31e9",
           "fileName": "SNAG 2026_Internal Runsheet_12 March Set up Day 1.pdf",
           "fileSize": 54151,
           "localPath": "C:\\EventCalendar\\pdfs\\Manpower Briefing Notes_SNAG_2026_Internal_Runsheet_12_March_Set_up_Day_1.pdf"
@@ -1567,7 +1567,7 @@
       ]
     },
     {
-      "id": "evt-02b63845",
+      "id": "evt-bfbb850a",
       "eventName": "DISNEY ON ICE PRESENTS MAGIC IN THE STARS",
       "dateStart": "2026-03-22",
       "dateEnd": "2026-03-22",
@@ -1577,18 +1577,18 @@
       "remark": "",
       "whatsappContent": "*DISNEY ON ICE PRESENTS MAGIC IN THE STARS*\nVenue: Arena\nDate: 22 Mar 2026\n\n*Event Info*\n0900hrs: o For safety purposes, catwalk inspections will / be conducted after setup/before show and / after tear down concluded. All items brought / up to catwalk are required to be declared. / Fines will be imposed for any items found / unattended or left over on the catwalk / Safety instruction form / oAppointment of Event Safety In -Charge / oMandatory Helmet Wearing during Event Setup / & Teardown / oEvent Professional Engineers (PE) physical / inspection of event setup and sign -off / oEndorsed safety acknowledgement form to / attach in eWA for rigging works / PRODUCTION AND SETUP 6 / Safety related matters: / Fire safety / *Fire extinguishers to be in place at FOH, / generators and distribution boards. / Clear emergency evacuation pathway of / 1.8m to be maintained. Safety walk will / be conducted prior to event day to / rectify any safety breaches / oSafety Walk Date and Time: Fri, 13 Mar,\n1000hrs: PRODUCTION AND SETUP 7 / Power / Number of generators: Yes, 3 / Use of in-house power: Yes, 3 Zones / additional 300mps at Zone 3 / o Safety documents required, along with endorsed CoC, SLD / and presence of LEW when tapping on in -house power / o Plot Gen Set into the layout (Loading Bay) - Submitted / Special effects / Pyrotechnics / Confetti / Haze machine / Flame / Sparkular / / Laser / *Use of haze and pyrotechnic will require silencing of fire bell / and standby duty technician till completion of usage. Pyro / test date must be scheduled prior to show / Operation disruption timing: include in production schedule / o No extension from timing provided, please cater additional / timing for dispersal of haze (Haze machine to be switched / off 30 mins before end time) / Sound considerations / Rehearsal after 10pm must ensure sound to be under 55dBA / Sound engineer to be engaged if rehearsal ends after 10pm / ADDITIONAL 300 AMP POWER 8 / (ZONE 3 TUNNEL) / PRODUCTION AND SETUP 9 / FM related matters: LIST OF NON-INCINERABLE WASTE (Source: NEA) / Cleaning: The following types of waste are non-incinerable and shall NOT be brought into incineration / plants: / o Food Catering / 1. Big appliances such as washing machines, refrigerators and air-conditioning units. / ❖When / 2. Big metal pieces such as large drums or containers, vehicular parts, metal chairs, wire / ❖Where rope and spring mattress. / o Rehearsal 3. Bulky waste that consists of any of the following: / ❖Confetti testing ? (a) a solid object exceeding 0.6 m in length or width or 0.1 m in thickness; / (b) a hollow object exceeding 0.6 m in length, width or height. / o Special Effects / 4. Carbon fibres. / ❖Confetti / 5. Chlorinated herbicides, chlorinated insecticides and chlorinated fungicides. / ❖light stick 6. Chemical waste with chemical content which is unsuitable for incineration. / ❖clappers 7. Explosive or highly flammable waste such as ammunition, dry and wet carbide waste, / o External fireworks, self-igniting waste and excessive quantities of films. / 8. Fire retardants. / ❖Que Location / 9. Human and animal waste, sludge from neutralisation pits, foul-smelling waste and large / ❖Timing / whole animal carcasses. / ❖Crowd Size 10. Insulation materials such as rock wool, asbestos, calcium silicate boards, ceramic fibres / o Special cleaning and big carpets. / ❖Suite / Function rooms / etc 11. Large quantities of electrical parts and components such as printed circuit boards, / cables and electronic cards. / ❖VIP / M&G / 12. Light materials such as sawdust, feathers, dust and powders. / ❖Rehearsal / 13. Liquid and volatile waste, oil sludge and paints. / 14. Poisonous and radioactive waste. / Waste removal (OTC/Dumpster) 15. Polychlorinated compounds such as Polychlorinated Bi-phenyl (PCB). / o Bulky item 16. Polyvinyl Chloride (PVC) waste such as PVC pipes, plastic film, upholstery, containers / and packaging materials. / ❖a solid object exceeding 0.6 m in length or width or 0.1 m in / 17. Smouldering refuse. / thickness; / 18. Toxic industrial waste specified in the Schedule to the Environmental Public Health / ❖a hollow object exceeding 0.6 m in length, width or height. (Toxic Industrial Waste) Regulations (Rg 11). / o Non incinerable wastes 19. Tyres. / ❖NATIONAL ENVIRONMENTAL AGENCY GUIDELINES FOR 20. Construction and renovation debris, earth, concrete, stone, sand, sludge, ash and slag. / 21. Waste from grease interceptors.",
       "pdfCount": 2,
-      "lastUpdated": "2026-03-29T03:01:04.666122",
+      "lastUpdated": "2026-03-29T03:06:26.098054",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1C0000A4F56E422208C1468AF7D05A97B0783C00003544B53E0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-d2ab3555",
+          "id": "pdf-d6aa9520",
           "fileName": "DOI 2026_Production Meeting Minutes 30.01.26.pdf",
           "fileSize": 6674114,
           "localPath": "C:\\EventCalendar\\pdfs\\DISNEY ON ICE PRESENTS MAGIC IN THE STAR_DOI_2026_Production_Meeting_Minutes_30.01.26.pdf"
         },
         {
-          "id": "pdf-58b327a9",
+          "id": "pdf-3c3ad20e",
           "fileName": "Production Meeting Agenda - SIS - DOI 2026.pdf",
           "fileSize": 379813,
           "localPath": "C:\\EventCalendar\\pdfs\\DISNEY ON ICE PRESENTS MAGIC IN THE STAR_Production_Meeting_Agenda_-_SIS_-_DOI_2026.pdf"
@@ -1596,7 +1596,7 @@
       ]
     },
     {
-      "id": "evt-36718580",
+      "id": "evt-22d598f1",
       "eventName": "Catholic Junior College",
       "dateStart": "2026-03-25",
       "dateEnd": "2026-03-25",
@@ -1606,24 +1606,24 @@
       "remark": "",
       "whatsappContent": "*Catholic Junior College*\nVenue: NSD\nDate: 25 Mar 2026\n\n*Event Info*\n11:30am: 7:30 am to\n8:25: Joseph, 8:27: Albert, 8:30: Michael, 8:32: Patrick\n8:40: Joseph, 8:42:Albert, 8:45: Michael, 8:47: Patrick\n7.15am: Preparation including deployment of marshals and first aid points\n7.45am: School gathers at OCBC Square\n8.10am: Safety briefing and warm up\n8.20am: Flag off Sec 3/4 boys (80 pax)\n8.25am: Flag off Staff/ Parents/ Alumni (100 pax)\n8.30am: Flag off Sec 3/4 girls (80 pax)\n8.35am: Flag off Sec 1/2 boys (80 pax)\n8.40am: Flag off Sec 1/2 girls (80 pax)\n8.45am: Flag off Changkat 60 Celebratory Fun Run (100 pax)\n8.50am: Flag off Fun walk wave 1 (100 pax)\n8.55am: Flag off Fun walk wave 2 (100 pax)\n9.00am: Flag off Fun walk wave 3 (100 pax)\n9.05am: Flag off Fun walk wave 4 (100 pax)\n10.00am: House cheers (OCBC Square)\n10.30am: Prize presentation\n11.20am: Clean up\n11.30am: Dismissal",
       "pdfCount": 3,
-      "lastUpdated": "2026-03-29T02:59:45.400775",
+      "lastUpdated": "2026-03-29T03:05:14.237916",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F90000A4F56E422208C1468AF7D05A97B0783C0000513DC2780000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-ee6bc09d",
+          "id": "pdf-bbe4dd9d",
           "fileName": "CJC Cross Country 2026 - Event Programme.pdf",
           "fileSize": 7741665,
           "localPath": "C:\\EventCalendar\\pdfs\\Catholic Junior College_CJC_Cross_Country_2026_-_Event_Programme.pdf"
         },
         {
-          "id": "pdf-cc46546e",
+          "id": "pdf-563c46c7",
           "fileName": "Westwood Run 2026 - Event Programme.pdf",
           "fileSize": 726775,
           "localPath": "C:\\EventCalendar\\pdfs\\Catholic Junior College_Westwood_Run_2026_-_Event_Programme.pdf"
         },
         {
-          "id": "pdf-8f43266c",
+          "id": "pdf-a8607bdd",
           "fileName": "Changkat Changi Cross Country 2026 - Event Programme.pdf",
           "fileSize": 283459,
           "localPath": "C:\\EventCalendar\\pdfs\\Catholic Junior College_Changkat_Changi_Cross_Country_2026_-_Event_Programme.pdf"
@@ -1631,7 +1631,7 @@
       ]
     },
     {
-      "id": "evt-bb520b09",
+      "id": "evt-82b443fa",
       "eventName": "AFC Asian Cup Qualifiers (Singapore vs Bangladesh)",
       "dateStart": "2026-03-31",
       "dateEnd": "2026-03-31",
@@ -1641,18 +1641,18 @@
       "remark": "",
       "whatsappContent": "*AFC Asian Cup Qualifiers (Singapore vs Bangladesh)*\nVenue: NSD\nDate: 31 Mar 2026\n\n*Event Info*\n4:00PM: BOX OFFICE @ KALLANG WAVE MALL OPEN / PROMENADE LOCKDOWN\n4:30PM: GATE 19 MEDIA DOOR OPEN\n5:30PM: TICKET RESOLUTION @ GATES 6 & 18 IN OPERATION / GATES OPEN / CARPARK H OPEN\n8:00PM: MATCH STARTS\n9:00PM: TICKET RESOLUTION @ GATES 6 & 18 CLOSE\n9:30PM: MERCHANDISE BOOTH CLOSE\n9:45PM: MATCH ENDS\n10:15PM: CUSTOMER CARE @ GATE 6 & 18 CLOSE / GATE 19 MEDIA DOOR CLOSE\n11:30PM: GATE 18 SIDE DOOR (FAS STAFF - CLOSE)\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Outside food and drinks\n- All glassware and glass bottles\n- Water bottles (except glass bottles) are to be emptied before entering the venue\n- Bags exceeding 30cm x 40cm x 40cm\n- Flags above A3 size but below 2m x 1.5m will be allowed\n- Loudhailers, musical instruments, and additional large displays (e.g. flags and banners exceeding 2m x 1.5m) are subjected to pre-approval by",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:53.459214",
+      "lastUpdated": "2026-03-29T03:05:22.358231",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F90000A4F56E422208C1468AF7D05A97B0783C00005334927B0000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-1261f1be",
+          "id": "pdf-5cfcb4d3",
           "fileName": "2026MAR31_EVENT BRIEF_AFC SGP vs BGD.pdf",
           "fileSize": 15540196,
           "localPath": "C:\\EventCalendar\\pdfs\\AFC Asian Cup Qualifiers _Singapore vs B_2026MAR31_EVENT_BRIEF_AFC_SGP_vs_BGD.pdf"
         },
         {
-          "id": "pdf-bbccd682",
+          "id": "pdf-246b75a4",
           "fileName": "2026MAR_PRODUCTION MEETING_AFC SGP vs BGD.pdf",
           "fileSize": 14930500,
           "localPath": "C:\\EventCalendar\\pdfs\\AFC Asian Cup Qualifiers _Singapore vs B_2026MAR_PRODUCTION_MEETING_AFC_SGP_vs_BGD.pdf"
@@ -1660,7 +1660,7 @@
       ]
     },
     {
-      "id": "evt-6568c37f",
+      "id": "evt-849e839a",
       "eventName": "AIA HYROX SINGAPORE 2026",
       "dateStart": "2026-04-04",
       "dateEnd": "2026-04-05",
@@ -1670,12 +1670,12 @@
       "remark": "",
       "whatsappContent": "*AIA HYROX SINGAPORE 2026*\nVenue: NSD\nDate: 4 Apr 2026 - 5 Apr 2026\n\n*Event Info*\n4.10pm: Last Race Commence 8.30pm 6.40pm\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Outside F&B\n- Smoking/Vaping\n- Noise makers including but not limited to air\n- horn, whistle etc\n- Flag poles and flags or placards with offensive\n- slogans or advertisements\n- Audio, Photography & Videography Policy:\n- Restrictions on professional photography,\n- videography and livestreaming\n- Cameras, selfie sticks, gimbals, tripods and\n- monopods",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T02:59:46.845569",
+      "lastUpdated": "2026-03-29T03:05:15.715073",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F90000A4F56E422208C1468AF7D05A97B0783C0000513DC2770000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-bec068f6",
+          "id": "pdf-d7ee72a2",
           "fileName": "2026APR3-5_Production Meeting_HYROX 2026.pdf",
           "fileSize": 5428762,
           "localPath": "C:\\EventCalendar\\pdfs\\AIA HYROX SINGAPORE 2026_2026APR3-5_Production_Meeting_HYROX_2026.pdf"
@@ -1683,7 +1683,7 @@
       ]
     },
     {
-      "id": "evt-2bfbf446",
+      "id": "evt-4a88ba2e",
       "eventName": "ACCESS TO AQC",
       "dateStart": "2026-06-20",
       "dateEnd": "2026-06-20",
@@ -1693,12 +1693,12 @@
       "remark": "",
       "whatsappContent": "*ACCESS TO AQC*\nVenue: AQC\nDate: 20 Jun 2026",
       "pdfCount": 1,
-      "lastUpdated": "2026-03-29T03:00:01.548469",
+      "lastUpdated": "2026-03-29T03:05:30.765471",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C000008EACB1D0000A4F56E422208C1468AF7D05A97B0783C00004F4CDD140000",
       "archived": 0,
       "pdfs": [
         {
-          "id": "pdf-6d2d1739",
+          "id": "pdf-881c72f2",
           "fileName": "AQC Training Pool Flow for Deck Works.pdf",
           "fileSize": 2957313,
           "localPath": "C:\\EventCalendar\\pdfs\\ACCESS TO AQC_AQC_Training_Pool_Flow_for_Deck_Works.pdf"
@@ -1706,7 +1706,7 @@
       ]
     },
     {
-      "id": "evt-e4c0719d",
+      "id": "evt-4a0188d7",
       "eventName": "[SISTIC] Xinyao Concert",
       "dateStart": "2026-07-05",
       "dateEnd": "2026-07-05",
@@ -1716,7 +1716,7 @@
       "remark": "",
       "whatsappContent": "*[SISTIC] Xinyao Concert*\nVenue: SIS\nDate: 2026-07-05",
       "pdfCount": 0,
-      "lastUpdated": "2026-03-29T02:59:26.445319",
+      "lastUpdated": "2026-03-29T03:04:55.171549",
       "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00004F4CA9F80000A4F56E422208C1468AF7D05A97B0783C00005333AB3A0000",
       "archived": 0,
       "pdfs": []
