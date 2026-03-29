@@ -1,0 +1,168 @@
+{
+  "lastUpdated": "2026-03-29T02:29:25.341063+00:00",
+  "lastSyncStatus": "success",
+  "totalEvents": 7,
+  "events": [
+    {
+      "id": "evt-d7d0289a",
+      "eventName": "• Umbrella",
+      "dateStart": "",
+      "dateEnd": "",
+      "venue": "Arena",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*• Umbrella*\nVenue: Arena",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:29:07.542672",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00000000010C0000A4F56E422208C1468AF7D05A97B0783C0000558EF43D0000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-d9eea761",
+          "fileName": "Event Briefing Slides (FIBA 3X3 AC & WCQ 2026) - CCO & DS.pdf",
+          "fileSize": 2805027,
+          "localPath": "C:\\EventCalendar\\pdfs\\_ Umbrella_Event_Briefing_Slides__FIBA_3X3_AC___WCQ_2026__-_CCO___DS.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-ebdc7f63",
+      "eventName": "SEASON OF ATHLETICS 2026",
+      "dateStart": "",
+      "dateEnd": "",
+      "venue": "NSD",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*SEASON OF ATHLETICS 2026*\nVenue: NSD\n\n*Event Info*\n7:00AM: ROVING ECR OPEN\n7:30AM: CUSTOMER CARE @ GATE 6 OPEN / EVENT START (1st HALF) 9:00AM TBC / EVENT BREAK 12:30PM TBC\n12:30PM: PCS & GATES @ GATES 9, 15 & 21 (FULL) OPEN –\n1:30PM: EVENT START (2nd HALF) 2:30PM\n6:30PM: EVENT END 8:50PM 8:30PM\n7:00PM: 9:20PM 9:00PM\n7:30PM: ROVING ECR CLOSE 9:50PM 9:30PM",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:29:10.920472",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00000000010C0000A4F56E422208C1468AF7D05A97B0783C0000558EF43A0000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-d0b6d301",
+          "fileName": "2026APR15-17_SOA 2026_Production Meeting_v1.0.pdf",
+          "fileSize": 4961373,
+          "localPath": "C:\\EventCalendar\\pdfs\\SEASON OF ATHLETICS 2026_2026APR15-17_SOA_2026_Production_Meeting_v1.0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-cf71863a",
+      "eventName": "PLANTER",
+      "dateStart": "",
+      "dateEnd": "",
+      "venue": "Other",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*PLANTER*\nVenue: Other",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:29:24.594246",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00000000010C0000A4F56E422208C1468AF7D05A97B0783C000053324DF30000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-c234185e",
+          "fileName": "FIBA_3X3_ OCBC Square_Layout.pdf",
+          "fileSize": 920415,
+          "localPath": "C:\\EventCalendar\\pdfs\\PLANTER_FIBA_3X3__OCBC_Square_Layout.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-3e04737a",
+      "eventName": "SportCares Mini Triathlon",
+      "dateStart": "2026-03-10",
+      "dateEnd": "2026-03-27",
+      "venue": "AQC",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*SportCares Mini Triathlon*\nVenue: AQC\nDate: 10 Mar 2026 - 27 Mar 2026\n\n*Event Info*\n3:50pm: Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 1 (Swimming) / Running Stadium Riverside Walk FLAG OFF - Running Wave 2 (Running) / RUNNING\n3:55pm: Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 2 (Swimming) / Wave 1 – 20 children / Running Stadium Riverside Walk FLAG OFF - Running Wave 3 (Running) Wave 2 – 15 children\n4:00pm: Wave 3 – 15 children / Triathlon OCBC Aquatic Centre FLAG OFF – Triathlon Wave 3 (Swimming) / 4:05pm Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 1 (Cycling) / 4:10pm Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 2 (Cycling) / Triathlon Stadium Park Connector TRANSITION + Triathlon Wave 3 (Cycling)\n4:15pm: Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 1 (Cycling) / Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 2 (Cycling) / TRIATHLON\n4:20pm: RUNNING - END / Wave 1 – 12 children / Duathlon Stadium Park Connector FLAG OFF – Duathlon Wave 3 (Cycling) Wave 2 – 10 children\n4:25pm: Wave 3 – 10 children / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 1 (Running) / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 2 (Running)\n4:30pm: Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 1 (Running) / Triathlon Stadium Riverside Walk TRANSITION + Triathlon Wave 3 (Running)\n4:35pm: Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 2 (Running) / 4:40pm Duathlon Stadium Riverside Walk TRANSITION + Duathlon Wave 3 (Running) / DUATHLON / 4:45pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 1 (Cycling) / Wave 1 – 15 children / 4:50pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 2 (Cycling) Wave 2 – 15 children / Wave 3 – 14 children / 4:55pm Duathlon Stadium Park Connector TRANSITION + Duathlon Wave 3 (Cycling) / All Rights re5s:e00rvpemd © I_Possible Pte Ltd. TRIATHLON - END / The concepts & design represented are the sole property of I_Possible Pte Ltd. 4 / Any reprod5u:1c5tipomn without written consent is prohibited. DUATHLON - END / A C C R E D I T A T I O N – W R I S T T A G & B A N D S / Red Wrist Tag will be given during / registration for accreditation / into AQC / Pink silicone bands will be given to Purple silicone bands will be given to Green silicone bands will be given to / athletes after they complete the athletes after they complete the athletes after they complete the / Swimming segment Cycling segment Running segment / All Rights reserved © I_Possible Pte Ltd. / The concepts & design represented are the sole property of I_Possible Pte Ltd. 5 / Any reproduction without written consent is prohibited. / A C C R E D I T A T I O N - B I B S",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:02:23.716352",
+      "outlookEventId": "local-54206d60",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-d4c67b71",
+          "fileName": "260311 I_Possible_SportSG Mini Triathlon 27 March_V2.pdf",
+          "fileSize": 1550962,
+          "localPath": "C:\\EventCalendar\\pdfs\\260311 I_Possible_SportSG Mini Triathlon 27 March_V2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-a0f41547",
+      "eventName": "Inter Madrasah Netball Competition 2026",
+      "dateStart": "2026-03-26",
+      "dateEnd": "2026-03-26",
+      "venue": "Arena",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*Inter Madrasah Netball Competition 2026*\nVenue: Arena\nDate: 26 Mar 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:29:25.115553",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00000000010C0000A4F56E422208C1468AF7D05A97B0783C000053324DF20000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-135beb36",
+          "fileName": "Inter Madrasah Netball Competition 2026 - Briefing Slides.pdf",
+          "fileSize": 771295,
+          "localPath": "C:\\EventCalendar\\pdfs\\Inter Madrasah Netball Competition 2026_Inter_Madrasah_Netball_Competition_2026_-_Briefing_Slides.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-478301c8",
+      "eventName": "CWSS Sports Day 2026",
+      "dateStart": "2026-03-27",
+      "dateEnd": "2026-03-27",
+      "venue": "Arena",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*CWSS Sports Day 2026*\nVenue: Arena\nDate: 27 Mar 2026",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:29:12.439032",
+      "outlookEventId": "000000006F721358938F6841A7B07C7B54530F560700A4F56E422208C1468AF7D05A97B0783C00000000010C0000A4F56E422208C1468AF7D05A97B0783C00005538EB170000",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-480e9b4f",
+          "fileName": "CWSS - Briefing Slides.pdf",
+          "fileSize": 1200226,
+          "localPath": "C:\\EventCalendar\\pdfs\\CWSS Sports Day 2026_CWSS_-_Briefing_Slides.pdf"
+        }
+      ]
+    },
+    {
+      "id": "evt-2888af80",
+      "eventName": "AFC Asian Cup Qualifiers (Singapore vs Bangladesh)",
+      "dateStart": "2026-03-31",
+      "dateEnd": "2026-03-31",
+      "venue": "NSD",
+      "em": "",
+      "aem": "",
+      "remark": "",
+      "whatsappContent": "*AFC Asian Cup Qualifiers (Singapore vs Bangladesh)*\nVenue: NSD\nDate: 31 Mar 2026\n\n*Event Info*\n3:00PM: GATE 18 MEDIA DOOR (FAS STAFF)\n4:00PM: BOX OFFICE @ KALLANG WAVE MALL OPEN\n4:30PM: PROMENADE LOCKDOWN\n5:30PM: PCS OPEN\n6:00PM: CUSTOMER CARE @ 18 IN OPERATION / TICKET RESOLUTION @ GATES 6 & 18 IN OPERATION / GATE 19 MEDIA ENTRANCE OPEN\n8:00PM: MATCH STARTS\n9:00PM: TICKET RESOLUTION @ GATES 6 & 18 CLOSE\n9:30PM: MERCHANDISE BOOTH CLOSE\n9:45PM: MATCH ENDS\n10:15PM: CUSTOMER CARE @ GATE 6 & 18 CLOSE / GATE 19 MEDIA ENTRANCE CLOSE\n12:30AM: GATE 18 MEDIA DOOR (FAS STAFF - CLOSE)\n\n*Conditions of Entry*\n\nNOT ALLOWED:\n- Outside food and drinks\n- All glassware and glass bottles\n- Water bottles (except glass bottles) are to be emptied before entering the venue\n- Bags exceeding 30cm x 40cm x 40cm\n- Flags above A3 size but below 2m x 1.5m will be allowed\n- Loudhailers, musical instruments, and additional large displays (e.g. flags and banners exceeding 2m x 1.5m) are subjected to pre-approval by",
+      "pdfCount": 1,
+      "lastUpdated": "2026-03-29T02:02:22.695114",
+      "outlookEventId": "local-1b248bc4",
+      "archived": 0,
+      "pdfs": [
+        {
+          "id": "pdf-e40037c2",
+          "fileName": "2026MAR31_EVENT BRIEF_AFC SGP vs BGD.pdf",
+          "fileSize": 15540196,
+          "localPath": "C:\\EventCalendar\\pdfs\\2026MAR31_EVENT BRIEF_AFC SGP vs BGD.pdf"
+        }
+      ]
+    }
+  ]
+}
